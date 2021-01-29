@@ -9976,7 +9976,7 @@ var pages_config = {
     cfds: { module: GetStarted.CFDs },
     // charity                  : { module: Charity },
     change_passwordws: { module: ChangePassword, is_authenticated: true },
-    closure: { module: AccountClosure, is_authenticated: true },
+    closure: { module: WhyUs, is_authenticated: true },
     contact: { module: Contact },
     cryptocurrencies: { module: GetStarted.Cryptocurrencies },
     cyberjaya: { module: StaticPages.Locations },
@@ -10044,7 +10044,7 @@ var pages_config = {
     'terms-and-conditions': { module: TermsAndConditions },
     'types-of-accounts': { module: TypesOfAccounts },
     'video-facility': { module: VideoFacility, is_authenticated: true, only_real: true },
-    'why-us': { module: WhyUs }
+    'why-us': { module: AccountClosure }
 };
 /* eslint-enable max-len */
 
