@@ -243,9 +243,60 @@ const TypesOfPartnership = () => (
                                             { text: it.L('Forex and metals*') },
                                             { text: it.L('10') },
                                         ],
+                                    ],
+                                }}
+                            />
+                            <Table
+                                data={{
+                                    thead: [
                                         [
-                                            { text: it.L('Cryptocurrencies**') },
-                                            { text: it.L('0.3%') },
+                                            { text: it.L('Asset'), attributes: { rowSpan: 2 } },
+                                            { text: it.L('Commission per round trade') },
+                                        ],
+                                        [
+                                            { text: it.L('$ per 100,000 USD of turnover'), className: 'center-text' },
+                                        ],
+                                    ],
+                                    tbody: [
+                                        [
+                                            { text: it.L('BTC/USD') },
+                                            { text: it.L('40') },
+                                        ],
+                                        [
+                                            { text: it.L('ETH/USD') },
+                                            { text: it.L('40') },
+                                        ],
+                                        [
+                                            { text: it.L('LTC/USD') },
+                                            { text: it.L('50') },
+                                        ],
+                                        [
+                                            { text: it.L('BCH/USD') },
+                                            { text: it.L('50') },
+                                        ],
+                                        [
+                                            { text: it.L('XRP/USD') },
+                                            { text: it.L('50') },
+                                        ],
+                                        [
+                                            { text: it.L('DSH/USD') },
+                                            { text: it.L('500') },
+                                        ],
+                                        [
+                                            { text: it.L('EOS/USD') },
+                                            { text: it.L('500') },
+                                        ],
+                                        [
+                                            { text: it.L('ZEC/USD') },
+                                            { text: it.L('500') },
+                                        ],
+                                        [
+                                            { text: it.L('XMR/USD') },
+                                            { text: it.L('500') },
+                                        ],
+                                        [
+                                            { text: it.L('BNB/USD') },
+                                            { text: it.L('50') },
                                         ],
                                     ],
                                 }}
