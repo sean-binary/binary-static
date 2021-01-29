@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2020-10-14 03:15\n"
+"PO-Revision-Date: 2021-01-29 06:53\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -30,6 +30,12 @@ msgstr "10"
 
 msgid "404"
 msgstr "404"
+
+msgid " (account created)"
+msgstr " (已开立账户)"
+
+msgid " (unavailable)"
+msgstr " (不可用)"
 
 msgid " All calls are recorded for training and monitoring purposes."
 msgstr " 为了利于培训和监控，所有通话将被录音。"
@@ -126,9 +132,6 @@ msgstr "$50,001 - $100,000"
 
 msgid "$500,001 - $1,000,000"
 msgstr "$500,001 - $1,000,000"
-
-msgid "%1 (United Kingdom)"
-msgstr "%1(英国)"
 
 msgid "%1 Account"
 msgstr "%1账户"
@@ -451,6 +454,9 @@ msgstr "%1不，请立刻更改我的法定账户的币种%2"
 msgid "%1Note%2: These limits are only applicable to your %3 real account. To set limits, switch to the respective account and set your limits accordingly."
 msgstr "%1注意%2：这些限值仅适用于您的%3真实账户。请切换至相关账户以设置限值。"
 
+msgid "%1Please note that if you live in the United Kingdom, self-exclusion cannot be removed until its period has expired. %2If you wish to resume trading after your self-exclusion period is over, please make your request by calling %3. Requests by chat or email shall not be entertained."
+msgstr "％1请注意，如果您在英国居住，则须在自我禁止期限到期后才能将其删除。％2自我禁止期限过期后如果您希望恢复交易，请致电％3提出请求。以聊天或电子邮件方式提出的请求将不被接受。"
+
 msgid "%1Return to trading page%2"
 msgstr "%1返回交易页面%2"
 
@@ -518,7 +524,7 @@ msgid "0-5 transactions in the past 12 months"
 msgstr "过去12个月内0-5次交易"
 
 msgid "0.2%"
-msgstr ""
+msgstr "0.2%"
 
 msgid "0.20"
 msgstr "0.20"
@@ -552,6 +558,9 @@ msgstr "1-2 年"
 
 msgid "1. Proof of identity"
 msgstr "1. 身份证明"
+
+msgid "1. This link was sent by you"
+msgstr "1. 此链接是您发送的"
 
 msgid "1.5%"
 msgstr "1.5%"
@@ -589,14 +598,23 @@ msgstr "双向报价"
 msgid "2. Selfie with proof of ID"
 msgstr "2. 带ID证件的自拍照片"
 
+msgid "2. Your desktop window stays open"
+msgstr "2. 您的桌面窗口保持打开状态"
+
 msgid "20 – 39.999%"
 msgstr "20 – 39.999%"
+
+msgid "2021 Binary | All rights reserved"
+msgstr "2021 Binary | 保留所有权利"
 
 msgid "3.50"
 msgstr "3.50"
 
 msgid "30%"
 msgstr "30%"
+
+msgid "30-day deposit limit"
+msgstr "30天期存款限额"
 
 msgid "30-day limit on losses"
 msgstr "30天损失限额"
@@ -624,6 +642,9 @@ msgstr "6位数代码"
 
 msgid "60 – 79.999%"
 msgstr "60 – 79.999%"
+
+msgid "7-day deposit limit"
+msgstr "7天期存款限额"
 
 msgid "7-day limit on losses"
 msgstr "7天期损失限额"
@@ -706,11 +727,14 @@ msgstr "对OSI 模型、TCP/IP和其他行业标准网络防御概念了解得�
 msgid "A client may only open an account on this site on the following conditions:"
 msgstr "客户必须符合以下条件才能在此网站开立账户："
 
-msgid "A client should not use the client's account as a banking facility, and deposits should only be made with a view to using funds to place contracts. The Company is not a financial institution, and the client will not receive interest on deposits. Should a client make repeated deposits and withdrawals without placing commensurate contracts, the Company reserves the right to pass on to the client's account, without prior notice, any bank charges the Company has incurred before closing the account."
-msgstr "客户的账户不应被用作银行信贷，其中的存款只应视为交易资金用途。公司并不是金融机构，客户存款不会有利息。如果客户重复进行存、取款，却没有进行相应的交易，在关闭账户之前，公司保留权利在不事先通知的情况下把相关银行费用转加到客户的账户。"
+msgid "A client should not use the client's account as a banking facility, and deposits should only be made with a view to using funds to place contracts. The Company is not a financial institution, and the client will not receive interest on deposits. Should a client make repeated deposits and withdrawals without placing commensurate contracts, the Company reserves the right to pass on to the client's account, without prior notice, any bank charges the Company has incurred before closing the account. The Company also reserves the right to reject the client's payouts without prior notice."
+msgstr "客户的账户不应被用作银行信贷，其中的存款只应视为交易资金用途。公司并不是金融机构，客户存款不会有利息。如果客户重复进行存、取款，却没有进行相应的交易，在关闭账户之前，公司保留权利在不事先通知的情况下把相关银行费用转加到客户的账户。公司还保留在不事先通知的情况下拒绝赔付给客户的权利。"
 
 msgid "A competitive and flexible affiliate programme that can be adapted to your needs"
 msgstr "可根据您的需要调整的具竞争性和灵活的联盟计划"
+
+msgid "A corporate action can include but is not limited to assimilation, acquisition, bankruptcy, bonus issue, bonus rights, cash dividend, class action, delisting, de-merger, general announcement, initial public offering (IPO), liquidation, merger, change in par value, scheme of arrangement, stock dividend, stock split, return of capital, and reverse stock split."
+msgstr "公司行为可以包括但不限于同化、收购、破产、红利发行、红利权利、现金股利、集体诉讼、退市、分拆、一般公告、首次公开募股（IPO）、清算、合并、变更票面价值、安排方案、股票分红、股票分割、资本回报和反向股票分割。"
 
 msgid "A derivative is a financial instrument whose value is determined by reference to an underlying market. Derivatives are commonly traded in the inter-bank market, and binaries are one of the simplest forms of derivatives."
 msgstr "衍生工具是一种通过参照基础市场来定价的金融工具，通常在银行间市场交易，而二元期权是衍生工具中最为普通的一种产品形式。"
@@ -1069,6 +1093,9 @@ msgstr "透过添加+/-给障碍偏移量定义。例如, +0.005 表示比入市
 msgid "Add funds"
 msgstr "添加基金"
 
+msgid "Add more trade servers"
+msgstr "添加更多交易服务器"
+
 msgid "Additional business exposure:"
 msgstr "附加商业风险："
 
@@ -1135,6 +1162,9 @@ msgstr "联盟和IB计划"
 msgid "Affiliate/Country Manager"
 msgstr "联盟/区域经理"
 
+msgid "Affiliates are not permitted to become clients by using their own affiliate link."
+msgstr "联盟会员不得使用自己的联盟链接成为客户。"
+
 msgid "Affiliates are required to display a risk warning on their website and associated materials, with wording such as the following:"
 msgstr "联盟会员必须在其网站和相关材料上显示风险警告，其措辞如下："
 
@@ -1198,17 +1228,17 @@ msgstr "所有合作伙伴选项"
 msgid "All affiliate activities must be conducted in a professional and proper manner. The Affiliate shall be expected to act with good faith and integrity in relationship with the Affiliate's referrals and always act in the best interests of the Affiliate's referrals."
 msgstr "所有联盟活动必须以专业和适当的方式进行。联盟会员须与其推介人保持善意和诚信关系并以联盟会员的最大利益行事。"
 
-msgid "All calls are recorded for training and monitoring purposes"
-msgstr "为了利于培训和监控，所有通话将被录音"
-
-msgid "All client orders are processed on a first in, first out basis without any manual intervention. When executing client order, %1 will seek to fill client order transaction as promptly as possible at the instructed price (or at a better price, if available). Exposure limits are established based on internal governance arrangements and risk management framework, which both commensurate with the size, nature, complexity, and risk profile of the Company's activities. These exposure limits are used as benchmarks to distinguish orders that are auto-accepted from orders that will be worked in the market with fill level passed on to the client."
-msgstr "所有客户订单将以先进先出，没有任何人工干预的方式处理。执行客户的订单时，%1将尽快以指示价格 （或可用的更佳价格）填补客户的订单交易记录。基于内部治理安排和风险管理框架建立的接触限值将与公司活动的大小、性质、复杂性和风险架构相配合。这些接触限值是区分自动接受订单和可用于将填补水平传递给客户端市场的订单的基准。"
+msgid "All client orders are processed on a first in, first out basis without any manual intervention. If a client order exceeds the volume limit for the symbol, it is automatically rejected. When executing client orders, %1 will seek to fill client order transaction as promptly as possible at the instructed price (or at a better price, if available). Exposure limits are established based on internal governance arrangements and risk management framework, which both commensurate with the size, nature, complexity, and risk profile of the Company's activities. These exposure limits are used as benchmarks to distinguish orders that are auto-accepted from orders that will be worked in the market with fill level passed on to the client."
+msgstr "所有客户订单将以先进先出，没有任何人工干预的方式处理。如果客户订单超出了交易品种的交易量限制，则会被自动拒绝。执行客户的订单时，%1将尽快以指示价格 （或可用的更佳价格）填补客户的订单交易记录。基于内部治理安排和风险管理框架建立的接触限值将与公司活动的大小、性质、复杂性和风险架构相配合。这些接触限值是区分自动接受订单和可用于将填补水平传递给客户端市场的订单的基准。"
 
 msgid "All conditions and durations"
 msgstr "所有环境和期限"
 
 msgid "All credit card details are submitted directly to the Visa/Mastercard network using the latest SSL encryption technology, in accordance with bank policies."
 msgstr "所有信用卡信息都按照银行政策，使用最新 SSL 加密技术直接提交至 Visa/Mastercard 网络。"
+
+msgid "All details must be clear — nothing blurry"
+msgstr "所有细节必须清楚-不可模糊"
 
 msgid "All durations"
 msgstr "所有合约期限"
@@ -1255,6 +1285,9 @@ msgstr "保证金交易的所有产品有很高的风险，可能导致超越客
 msgid "All reasonable steps are taken to comply with the law or any rules applicable to the jurisdiction in which the Agent resides."
 msgstr "采取一切合理步骤, 遵守适用于代理居住地管辖权下的法律或任何规则。"
 
+msgid "All sales of trades are final. The Company does not refund the price charged for entering a trade if the trade is executed."
+msgstr "所有交易都是最终的。如果已执行交易，公司不退还已经交易的收费。"
+
 msgid "All software is to be used at the client's own risk. The Company will not be liable for any financial losses incurred using a third-party software. The Company is not associated with the development of the automated trading software or the Expert Advisors because they are exclusively developed and supported by third parties and not by the Company. The Company does not receive any form of financial and/or other benefits from permitting Expert Advisors to be used."
 msgstr "客户使用所有软件的风险由客户自己承担。公司对使用第三方软件所招致的任何财务损失概不负责。公司与自动化交易软件或智能交易系统的开发无关, 因为这些完全由第三方开发和支持, 而不是由公司提供。公司允许使用智能交易系统没有获得任何形式的财务和/或其他利益。"
 
@@ -1263,6 +1296,9 @@ msgstr "公司获得的所有客户的信息有助于公司为客户和其账户
 
 msgid "All times are in GMT (Greenwich Mean Time)."
 msgstr "所有时间均采用 格林威治标准时间（GMT）。"
+
+msgid "All transactions"
+msgstr "所有交易"
 
 msgid "All unforeseen openings or closings of positions initiated by the Expert Advisor, whether relevant to system error or otherwise, are out of the scope of the Company's responsibility; hence the Company is not liable for such actions or results."
 msgstr "智能交易系统发起的所有不可预见的头寸开仓或平仓, 无论是与系统出错有关或是由于其他原因, 都超出了公司的责任范围, 因此公司不承担此类行动或结果的责任。"
@@ -1278,6 +1314,9 @@ msgstr "允许客户以较少金额（通过本地货币）充值"
 
 msgid "Allow Clients to use e-wallets, which are not available directly on %1"
 msgstr "允许客户使用 %1不直接提供的电子货币"
+
+msgid "Allow camera access"
+msgstr "允许相机访问"
 
 msgid "Allow equals"
 msgstr "允许等值"
@@ -1344,6 +1383,9 @@ msgstr "有主见，具销售驱动型人格，能够很快适应并达到强大
 
 msgid "An eagerness for robust risk management to keep up with the increasing pace of information exchange"
 msgstr "全力保持强大的风险管理能力，以跟上日渐增速的信息交换步伐"
+
+msgid "An error occurred while loading the component"
+msgstr "加载组件时发生错误"
 
 msgid "An excellent command of spoken and written English"
 msgstr "极强的英语口语和书写能力"
@@ -1441,6 +1483,9 @@ msgstr "公司要求的任何其他信息"
 msgid "Any pending funds in your MT5 account will be transferred to your Binary account."
 msgstr "您 MT5 账户的任何待处理资金将转至您的 Binary 账户。"
 
+msgid "Any request for a deposit refund for active accounts will be automatically rejected. If the Company has closed, blocked, or suspended the client’s account (see Section J. Fraud and money laundering), the client may request a refund of the client’s deposit. The Company reserves the right to accept or reject the client’s request after investigating the client’s claim. "
+msgstr "有效账户的任何押金退款请求将自动被拒绝。如果公司关闭、冻结或暂停了客户的账户（请参阅第J节“欺诈和洗钱”），则客户可以要求退还其押金。在调查客户的索赔后，公司保留接受或拒绝客户请求的权利。"
+
 msgid "Any restriction to its clients from purchasing any contracts during certain hours"
 msgstr "对客户在特定时段买入任何合约的限制"
 
@@ -1529,7 +1574,7 @@ msgid "As a first step, please send us an application with:"
 msgstr "首先，请向我们提出申请，并附上："
 
 msgid "As a high-tech knowledge hub, Cyberjaya enjoys the presence of several multinational companies and private universities. This has created a vibrant, thriving community thanks to the many expats and international students who call Cyberjaya home."
-msgstr "Cyberjaya是高科技知识中心, 这里有多家跨国公司和私立大学。由于许多外国人和国际学生以 Cyberjaya 为家, 因此创造了充满活力和繁荣的社区。"
+msgstr "赛柏再也是高科技知识中心, 这里有多家跨国公司和私立大学。由于许多外国人和国际学生以 Cyberjaya 为家, 因此创造了充满活力和繁荣的社区。"
 
 msgid "As a result, the client's trades are executed at market as follows:"
 msgstr "因此, 客户的交易在市场上的执行方式如下:"
@@ -1817,7 +1862,7 @@ msgid "Avoid the need to have an e-wallet"
 msgstr "避免使用电子钱包"
 
 msgid "Avoiding financial transactions that might reveal valuable passwords or personal information such as credit card numbers"
-msgstr ""
+msgstr "避免可能泄露有价值的密码或个人信息（例如信用卡号）的金融交易"
 
 msgid "Award-winning online trading platform"
 msgstr "屡获殊荣的在线交易平台"
@@ -1878,9 +1923,6 @@ msgstr "余额："
 
 msgid "Bank statement"
 msgstr "银行月结单"
-
-msgid "Bank wire, credit card, e-wallet"
-msgstr "银行电汇、信用卡、电子钱包"
 
 msgid "Bank wire/Money transfer"
 msgstr "银行电汇/转账"
@@ -2086,6 +2128,9 @@ msgstr "区块链技术 - 所有加密货币使用各式的区块链技术（一
 msgid "Blogger and vlogger"
 msgstr "博客和视频博客"
 
+msgid "Blurry photo detected"
+msgstr "检测到模糊的照片"
+
 msgid "Books and records"
 msgstr "账簿和记录"
 
@@ -2278,6 +2323,18 @@ msgstr "买权价差"
 msgid "Call Spread/Put Spread"
 msgstr "看涨期权价差/看跌期权价差"
 
+msgid "Camera access is denied"
+msgstr "相机访问被拒"
+
+msgid "Camera not detected"
+msgstr "未检测到相机"
+
+msgid "Camera not working"
+msgstr "相机不能用"
+
+msgid "Camera not working?"
+msgstr "相机不能用？"
+
 msgid "Can I offer my referrals an incentive to sign up through my unique affiliate link rather than sign up directly?"
 msgstr "我是否可以让我推荐的客户不要直接注册，而是通过我的联盟专用链接注册，从而获得奖金？"
 
@@ -2309,7 +2366,7 @@ msgid "Can't miss in Asunción"
 msgstr "亚松森不能错过的东西"
 
 msgid "Can't miss in Cyberjaya"
-msgstr "大好机会尽在Cyberjaya"
+msgstr "大好机会尽在赛柏再也"
 
 msgid "Can't miss in Dubai "
 msgstr "大好机会尽在迪拜 "
@@ -2339,7 +2396,7 @@ msgid "Careers - Asunción"
 msgstr "亚松森的工作机会"
 
 msgid "Careers - Cyberjaya"
-msgstr "工作机会 - 赛城"
+msgstr "工作机会 - 赛柏再也"
 
 msgid "Careers - Dubai"
 msgstr "工作机会 - 迪拜"
@@ -2367,6 +2424,9 @@ msgstr "收银台时段已过期"
 
 msgid "Certain limits are imposed as to the acceptable levels for barrier/strike prices of contracts. Typically, the barrier/strike may not be too close nor too far from the current underlying market level."
 msgstr "合约障碍/行权价格的可接受水平存在特定限制。一般来说，障碍或行权价格不能离标的资产当前价格水平太近或太远。"
+
+msgid "Champion Group Ltd: Vanuatu"
+msgstr "Champion Group Ltd: 瓦努阿图"
 
 msgid "Change API Endpoint"
 msgstr "更改 API 端点"
@@ -2404,6 +2464,9 @@ msgstr "此标的资产的图表数据存在延迟"
 msgid "Charting platforms"
 msgstr "图表平台"
 
+msgid "Check back here to finish the submission"
+msgstr "返回此处完成提交"
+
 msgid "Check our systems against the latest attacks, vulnerabilities, and mitigations"
 msgstr "检查我们的系统是否有最新的抗攻击、防漏洞和缓解措施"
 
@@ -2412,6 +2475,21 @@ msgstr "在开始交易之前，请先了解一些专业术语。"
 
 msgid "Check out the payment methods accepted by the payment agents in the list below."
 msgstr "请在下面列表中查看支付代理接受的支付方式。"
+
+msgid "Check selfie"
+msgstr "检查自拍照"
+
+msgid "Check that it is connected and functional. You can also <fallback>continue verification on your phone</fallback>"
+msgstr "检查它是否已连接并且功能正常。您还可以<fallback>在手机上继续验证</fallback>"
+
+msgid "Check that your number is correct"
+msgstr "检查您的电话号码是否正确"
+
+msgid "Check your image"
+msgstr "查看您的图像"
+
+msgid "Check your mobile"
+msgstr "检查手机"
 
 msgid "Checked"
 msgstr "已检查"
@@ -2437,8 +2515,14 @@ msgstr "选择赔付额后，系统将计算购入合约所需投注资金额。
 msgid "Choose a payout from $1 to $50,000."
 msgstr "赔付额的选择范围为 1 美元到 5 万美元。"
 
+msgid "Choose a server for your MT5 %1 account:"
+msgstr "选择 MT5 %1 账户的服务器:"
+
 msgid "Choose an account"
 msgstr "选择账户"
+
+msgid "Choose document"
+msgstr "选择文件"
 
 msgid "Choose from 100+ tradable instruments, backed by award-winning technology and innovation since 2000."
 msgstr "自2000年起至今，屡获殊荣，以持续创新的技术为后盾，提供100多项交易工具"
@@ -2548,8 +2632,8 @@ msgstr "客户同意遵守本公司为验证此条款是否合规而提出的合
 msgid "Clients are also advised that their rights may be prejudiced if they provide the wrong information as the Company would not be in a position to act in their best interests."
 msgstr "客户也被告知，如果客户提供错误的信息，其权利可能会受到损害，因为公司无法以客户的最佳利益行事。"
 
-msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, Hong Kong) will have their FX and CFD Metatrader 5 account opened with Deriv (BVI) Ltd. %1 is not available in the British Virgin Islands."
-msgstr "全球其他地区的客户 (不包括某些国家如美国、加拿大、香港) 可在  Deriv (BVI) Ltd. 开设外汇和差价合约Metatrader 5账户。%1在英属维尔京群岛不能使用。"
+msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, Hong Kong) who wish to trade CFDs on financial instruments and cryptocurrencies can have MetaTrader 5 accounts under Deriv (BVI) Ltd. %1 is not available in the British Virgin Islands."
+msgstr "全球其他地区 (除了某些国家如美国、加拿大和香港) 想要进行金融工具和加密货币的差价合约交易的客户可在 Deriv (BVI) Ltd. 拥有MetaTrader 5账户。%1 在英属维尔京群岛不能使用。"
 
 msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, Hong Kong) will have their FX and CFD Metatrader 5 account opened with Deriv (V) Ltd. %1 is not available in the Republic of Vanuatu."
 msgstr "全球其他地区的客户 (不包括某些国家如美国、加拿大、香港) 可在 Deriv (V) Ltd. 开设外汇和差价合约 Metatrader 5 账户。%1在瓦努阿图不能使用。"
@@ -2565,6 +2649,12 @@ msgstr "客户可考虑是否通过向 compliance@binary.com 发送电子邮件�
 
 msgid "Clients hereby declare that they are dealing with DIEL outside the scope of their economic or professional activity, and DIEL will therefore treat the client as an individual retail client for the purposes of EMIR compliance, unless advised otherwise."
 msgstr "客户在此声明，其与DIEL之间的活动范围属于其当前的经济或职业之外。除非另行通知，DIEL将视客户为符合EMIR规则的个人零售客户。"
+
+msgid "Clients in the European Union who wish to trade gambling products will have their accounts opened with Deriv (Europe) Limited."
+msgstr ""
+
+msgid "Clients in the Isle of Man and the UK who wish to trade gambling products will have their accounts opened with Deriv (MX) Ltd."
+msgstr ""
 
 msgid "Clients may trade on our platforms only when they are using their own money and are drawing on funds that have been acquired honestly. If you have any suspicion that clients are using money that has been acquired dishonestly, you must inform %1.  In such cases, we may decide to conduct checks on the client’s status and background. %2 management will decide what information needs to be reported to government officials and through what channels."
 msgstr "如果要在我们的平台交易，客户必须使用自己的资金，且这些资金须是通过诚实的方式获得的。如果您怀疑客户使用的款项是以不诚实的途径获得，您必须通知％1。在这种情况下，我们可能决定检查客户的状况和背景。％2管理层将决定需要通过什么渠道向政府官员报告哪些信息。"
@@ -2596,8 +2686,8 @@ msgstr "客户不可将第三方资金截留或汇集至他们在本公司开立
 msgid "Clients should read these ST&Cs carefully as well as the Summary order execution policy and Summary conflicts policy, the applicable Contract details together with the Risk disclosure notice and any other documents that DIEL has supplied or in the future supplies to clients."
 msgstr "客户必须谨慎的阅读这些补充条款、条件、订单执行政策摘要、冲突政策摘要、适用的合约细节、风险说明以及DIEL目前和将来向客户提供的其他文件。"
 
-msgid "Clients who do not wish to renew the self-exclusion and make a request to begin trading again, shall be given one day to cool off before being allowed access to the website. It is important to note that contact must be made to our customer services via telephone. Email contact is not sufficient."
-msgstr "对于不想续签自我禁止并请求重新开始交易的客户，我们将在允许此类客户访问本网站之前给予他们一天时间的冷静期。需要注意的是，客户必须通过电话与我们的客户服务人员联系，这是非常重要的。仅以电子邮件联系是不足够的。"
+msgid "Clients who do not wish to renew the self-exclusion and make a request to begin trading again, shall be given one day to cool off before being allowed access to the website. Please note that you must contact our support team by calling %1. It is not enough to send an email."
+msgstr "对于不想续签自我禁止并请求重新开始交易的客户，我们将在允许此类客户访问本网站之前给予他们一天时间的冷静期。请注意，您必须拨电话给%1与我们的客户服务团队联系。仅发送电子邮件是不足够的。"
 
 msgid "Clients who wish to self-exclude should be aware that the self-exclusion period is a minimum of six months and are given the option to extend it to a total of at least five years, immediately without any cooling-off period. When the self-exclusion period is set, the balance of funds in the client's account will be refunded to the client. At the end of the self-exclusion period, the self-exclusion remains in place, unless positive action is taken by the client in order to trade again."
 msgstr "愿意自我禁止的客户应注意，自我禁止期至少是6个月，且可以在没有任何冷静期的情况下立即将禁止期的总和延长到五年以上。自我禁止期\n"
@@ -2617,6 +2707,9 @@ msgstr "收盘时间"
 
 msgid "Close all or any of the client's Open Positions at a closing level that is reasonably available"
 msgstr "以合理可用的平仓水平将客户所有或任何未平仓头寸平仓"
+
+msgid "Close identity verification screen"
+msgstr "关闭身份验证屏幕"
 
 msgid "Close my account"
 msgstr "关闭账户"
@@ -2693,9 +2786,6 @@ msgstr "佣金结构"
 msgid "Commission"
 msgstr "佣金"
 
-msgid "Commission and swap scheme"
-msgstr "佣金和掉期交易计划"
-
 msgid "Commission on deposits"
 msgstr "存款佣金"
 
@@ -2704,9 +2794,6 @@ msgstr "取款佣金"
 
 msgid "Commission per round trade"
 msgstr "每笔完成交易的佣金"
-
-msgid "Commission per side trade"
-msgstr "每笔交易的佣金"
 
 msgid "Commission rates"
 msgstr "佣金费率"
@@ -2746,9 +2833,6 @@ msgstr "与广泛的技术和非技术团队沟通, 了解我们产品的独特�
 
 msgid "Company Ownership"
 msgstr "公司所有权"
-
-msgid "Company addresses"
-msgstr "公司地址"
 
 msgid "Company or Binary"
 msgstr "公司或Binary"
@@ -2867,11 +2951,17 @@ msgstr "祝贺您！"
 msgid "Congratulations! We'll make you a fair and competitive offer, and we don't make you negotiate in order to eliminate salary inequities and stress."
 msgstr "恭喜您！我们会给您公平和有竞争力的报酬，而且为了避免不平等的工资和压力，我们不会特地压低您的工资。"
 
+msgid "Connected to your mobile"
+msgstr "已连接到您的手机"
+
 msgid "Connecting to server"
 msgstr "连接服务器"
 
 msgid "Connection error: Please check your internet connection."
 msgstr "连接错误：请检查您网络连接。"
+
+msgid "Connection lost"
+msgstr "连接中断"
 
 msgid "Consent"
 msgstr "同意"
@@ -2900,8 +2990,20 @@ msgstr "请直接联系支付代理咨询汇款方法。"
 msgid "Contact us"
 msgstr "联系我们"
 
+msgid "Continue"
+msgstr "继续"
+
+msgid "Continue on phone"
+msgstr "用电话继续操作"
+
+msgid "Continue on your phone"
+msgstr "用您的电话继续操作"
+
 msgid "Continue trading"
 msgstr "继续交易"
+
+msgid "Continue with the verification"
+msgstr "继续验证操作"
 
 msgid "Continuous Indices – Choose from the Volatility 10 Index, Volatility 25 Index, Volatility 50 Index, Volatility 75 Index, and Volatility 100 Index. These indices correspond to simulated markets with constant volatilities of 10%, 25%, 50%, 75%, and 100% respectively."
 msgstr "连续指数 - 从波动率10指数、波动率25指数、波动率50指数、波动率75指数及波动率100指数中挑选。这些指数跟具10%、25%、50%、75% 和100% 持续波动率的模拟市场对应。"
@@ -3023,11 +3125,29 @@ msgstr "通过协调业务活动发展高质量合作关系"
 msgid "Coordinate with payment system service providers in offering cryptocurrencies and digital wallets as a payment method"
 msgstr "与支付系统服务提供商协调, 提供加密货币和数字钱包作为支付方式"
 
+msgid "Copied"
+msgstr "已复制"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Copy link"
+msgstr "复制链接"
+
+msgid "Copy the link to your mobile browser"
+msgstr "复制链接到您的手机浏览器"
+
+msgid "Copy the link to your phone"
+msgstr "复制链接到您的手机"
+
 msgid "Copyright"
 msgstr "版权"
 
 msgid "Copywriter"
 msgstr "文案"
+
+msgid "Corporate actions"
+msgstr "公司行为"
 
 msgid "Cost per acquisition (CPA) for EU clients only"
 msgstr "仅适用于欧盟区客户的每行动成本 (CPA)"
@@ -3046,6 +3166,9 @@ msgstr "国家"
 
 msgid "Countries report: Displays a list of countries where your clicks are coming from"
 msgstr "国家报表: 显示您的点击率来源国家列表"
+
+msgid "Country not found"
+msgstr "未找到国名"
 
 msgid "Country of Residence"
 msgstr "居住国"
@@ -3146,6 +3269,9 @@ msgstr "提供可行的策略和结果的创造性和分析性思维"
 msgid "Creative flair and versatility in developing concepts, graphics, and layouts for a wide range of media"
 msgstr "为各种媒体开发概念、图形和布局方面具有创造天赋和多元能力"
 
+msgid "Credit an amount to or debit an amount from the client’s account"
+msgstr "客户账户中记入或扣除金额"
+
 msgid "Credit/Debit"
 msgstr "借方/贷方"
 
@@ -3159,7 +3285,7 @@ msgid "Cryptocurrencies"
 msgstr "加密货币"
 
 msgid "Cryptocurrencies commission per round trade. For example, a round trade of 1 lot of BTC/USD with spot price of 10,000 USD will pay 30 USD on financial accounts and 20 USD on financial STP accounts."
-msgstr ""
+msgstr "每回合交易的加密货币佣金。例如: 1手比特币/美元的一回合交易, 如现货价格为 10,000美元，金融账户将支付30美元，金融STP账户则支付20美元。"
 
 msgid "Cryptocurrencies such as Bitcoin and Ethereum are decentralised digital assets that enable instant payments to anywhere in the world."
 msgstr "像比特币和以太币这样的加密货币是分散式的数字资产，可以在全世界任何地方即时支付。"
@@ -3173,8 +3299,8 @@ msgstr "加密货币**"
 msgid "Cryptocurrency"
 msgstr "加密货币"
 
-msgid "Cryptocurrency contract specifications and commission scheme"
-msgstr "加密货币合约规格和佣金计划"
+msgid "Cryptocurrency contract specifications"
+msgstr "加密货币合约规格"
 
 msgid "Cryptocurrency margin policy"
 msgstr "加密货币保证金政策"
@@ -3233,23 +3359,23 @@ msgstr "客户资金"
 msgid "Customer-centric partnership"
 msgstr "客户-中心合伙"
 
-msgid "Cyberjaya"
-msgstr "Cyberjaya"
+msgid "Cut-off image detected"
+msgstr "检测到裁切图像"
 
-msgid "Cyberjaya Office"
-msgstr "Cyberjaya办公室"
+msgid "Cyberjaya"
+msgstr "赛柏再也"
 
 msgid "Cyberjaya expertly combines green lungs and modern amenities to give you the ultimate work-life balance."
-msgstr "Cyberjaya的绿色空间与现代化设施灵巧地融合为一体, 为您提供最完美的工作与生活平衡。"
+msgstr "赛柏再也的绿色空间与现代化设施灵巧地融合为一体, 为您提供最完美的工作与生活平衡。"
 
 msgid "Cyberjaya is a pioneer tech hub that lies 30 minutes away from Kuala Lumpur. Established in 1997, Cyberjaya is the heartbeat of the Multimedia Super Corridor — a government-designated zone that aims to accelerate Malaysia's push to achieve Vision 2020."
-msgstr "Cyberjaya是顶尖科技中心，离开吉隆坡仅30分钟路程。Cyberjaya成立于 1997年, 是政府指定的多媒体超级走廊区域的心脏, 旨在加速推动与实现马来西亚的愿景2020。"
+msgstr "赛柏再也是顶尖科技中心，离开吉隆坡仅30分钟路程。赛柏再也成立于 1997年, 是政府指定的多媒体超级走廊区域的心脏, 旨在加速推动与实现马来西亚的愿景2020。"
 
 msgid "Cyberjaya is also a pioneer green township that is designed for sustainable living. It has an urban environment where almost half of its total development area is reserved for public amenities and greenery. It has also taken measures to cut carbon emissions based on a low carbon city framework, becoming a model for sustainable future cities."
-msgstr "Cyberjaya也是专为可持续生活设计的先锋环保城。它拥有城市化环境, 其中所有发展区几乎有一半是预留作公共设施和绿化用途。它还根据低碳城市框架采取削减碳排放量措施, 成为未来可持续发展城市的典范。"
+msgstr "赛柏再也也是专为可持续生活设计的先锋环保城。它拥有城市化环境, 其中所有发展区几乎有一半是预留作公共设施和绿化用途。它还根据低碳城市框架采取削减碳排放量措施, 成为未来可持续发展城市的典范。"
 
 msgid "Cyberjaya, Malaysia"
-msgstr "马来西亚Cyberjaya"
+msgstr "马来西亚赛柏再也"
 
 msgid "D. Account management"
 msgstr "四、账户管理"
@@ -3266,11 +3392,17 @@ msgstr "2019 年 DIEL RTS28"
 msgid "DIEL forms part of %1the Investor Compensation Scheme%2 (the \"Scheme\"), which is a rescue fund for investors that are clients of failed investment firms licensed by the MFSA. The Scheme covers 90% of the Company's net liability to a client in respect of investments that qualify for compensation under the Investment Services Act subject to a maximum payment to any one person of €20,000. The Scheme is based on EC Directive 97/9."
 msgstr "DIEL 是%1投资者补偿方案%2 ( \"方案\") 的一部分，该方案是专为获得MFSA准证而经营失败的投资者设立的救济基金。根据投资服务规定每人最多只补偿20,000欧元的限制，此基金向每位合格者提供的补偿金额为公司对客户投资负债净额的90%。此方案依据欧盟第97/9指令设定。"
 
+msgid "DIEL has the duty to disclose all the circumstances that are material to the product or services that it provides to the clients before and during the provision of such product and/or service. DIEL is obliged to do so in accordance with its licensed activities."
+msgstr "DIEL 有义务在提供此类产品和/或服务之前和期间向客户披露其提供的产品或服务的所有重大状况。DIEL 有义务根据其受许可的活动这样做。"
+
 msgid "DIEL is a company established in Malta under registration number C70156 and having its registered office at W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta."
 msgstr "DIEL 是在马耳他成立的公司，注册号为 C70156，公司注册地址是 W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta。"
 
-msgid "DIEL is authorised and regulated by the Malta Financial Services Authority (\"MFSA\") under the Investment Services Act (Cap. 370, Laws of Malta) (the \"Act\") to carry on investment business. DIEL is authorised by the MFSA to deal on own account (i.e. offer and act as counterparty to trades) and to execute orders on behalf of other clients; both services are in relation to financial derivative products relating to foreign exchange, indices and other financial products or assets (\"Financial Products\"). DIEL is not authorised to and does not offer investment, financial, legal, tax, regulatory, and/or other types of advice or state an opinion in relation to a Transaction under any circumstances. Clients should get independent advice from an investment adviser if they have any doubts about dealing in financial products."
-msgstr "DIEL由马耳他金融服务机构 (“MFSA”）授予许可证和监管，根据投资服务法令 (马耳他法令第370章）（法令）开展投资业务。DIEL经 MFSA 授权，在自己的帐户进行交易（例如：向交易者提供服务，或担任交易对手）及代替其他客户执行订单。这两种服务和金融衍生产品有关，也和外汇、指数及其他金融产品或资产（“金融产品”）有关。任何情况下，DIEL 无权也不提供任何与交易有关的投资、金融、法律、税务、法规和/或其它类型的咨询或提出意见。如果客户对金融产品有任何疑问，须向金融顾问寻求独立的建议。"
+msgid "DIEL is authorised and regulated by the Malta Financial Services Authority (\"MFSA\") under the Investment Services Act (Cap. 370, Laws of Malta) (the \"Act\") to carry on investment business. It is also authorised and subject to limited regulation by the Financial Conduct Authority in the UK. Details about the extent of our authorisation and regulation by the Financial Conduct Authority are available from us on request. DIEL is authorised by the MFSA to deal on own account (i.e. offer and act as counterparty to trades) and to execute orders on behalf of other clients; both services are in relation to financial derivative products relating to foreign exchange, indices and other financial products or assets (\"Financial Products\"). DIEL is not authorised to and does not offer investment, financial, legal, tax, regulatory, and/or other types of advice or state an opinion in relation to a Transaction under any circumstances. Clients should get independent advice from an investment adviser if they have any doubts about dealing in financial products."
+msgstr "DIEL 由马耳他金融服务管理局（“MFSA”）根据《投资服务法令》（《马耳他法律》第370章）（“法令”）授权执行投资业务和受其监管。并由英国金融行为监管局授权并受其监管。我们可应要求提供有关金融行为监管局授权和监管范围的详细信息。MFSA 授权 DIEL 以自己的账户交易（即提供报价并充当交易对手）并代表其他客户执行订单；以上两项服务均涉及与外汇、指数和其他金融产品或资产（“金融产品”）有关的金融衍生产品。DIEL 在任何情况下均无权提供任何投资、财务、法律、税务、监管和/或其他类型的建议，也不可就任何交易发表意见。如果客户对金融产品交易有任何疑问，须向投资顾问寻求独立建议。"
+
+msgid "DIEL is authorised by the MFSA to deal on own account (i.e. offer and act as counterparty to trades) and to execute orders on behalf of other clients; both services are in relation to financial derivative products relating to foreign exchange, indices and other financial products or assets (\"Financial Products\"). DIEL is not authorised to and does not offer investment, financial, legal, tax, regulatory, and/or other types of advice or state an opinion in relation to a Transaction under any circumstances. Clients should get independent advice from an investment adviser if they have any doubts about dealing in financial products."
+msgstr "DIEL经 MFSA 授权，在自己的账户进行交易（例如：向交易者提供服务，或担任交易对手）及代替其他客户执行订单。这两种服务和金融衍生产品有关，也和外汇、指数及其他金融产品或资产（“金融产品”）有关。任何情况下，DIEL 无权也不提供任何与交易有关的投资、金融、法律、税务、法规和/或其它类型的咨询或提出意见。如果客户对金融产品有任何疑问，须向金融顾问寻求独立的建议。"
 
 msgid "DIEL is entitled under the Rules to rely upon information provided by clients. Clients should ensure that they provide DIEL with accurate and complete information and notify DIEL in the event that any information supplied to DIEL changes. Clients should note that if they provide DIEL with inaccurate information, or if they fail to notify DIEL of any changes to information previously supplied by them, this may adversely affect the quality of the services that DIEL can provide."
 msgstr "DIEL遵循规则，完全按照客户提供的信息进行活动。客户须确保向DIEL提供完整、准确的信息，并在信息有任何变化时通知DIEL。请注意，如果客户提供了错误的信息，或者在信息发生变化时没有通知DIEL，DIEL的服务质量可能会受到严重影响。"
@@ -3287,6 +3419,9 @@ msgstr "DIEL不可向专业客户提供以下服务："
 msgid "Daily Reset Indices – Daily Reset Indices replicate markets with a bullish and bearish trend with a constant volatility. The Bull Market and Bear Market indices start at 00:00 GMT each day, replicating bullish and bearish markets respectively."
 msgstr "每日重置指数 - 每日重置指数复制具看涨和看跌走势与持续波动的市场。牛市和熊市指数每天从格林威治时间00:00开始，分别复制看涨和看跌市场。"
 
+msgid "Daily deposit limit"
+msgstr "一天期存款限额"
+
 msgid "Daily limit on losses"
 msgstr "每日损失限额"
 
@@ -3295,6 +3430,9 @@ msgstr "每日交易限额"
 
 msgid "Dash vs US dollar"
 msgstr "达世币兑美元"
+
+msgid "Dashboard"
+msgstr "仪表板"
 
 msgid "Data Analytics"
 msgstr "数据分析学"
@@ -3407,6 +3545,9 @@ msgstr "基于公司作为客户的交易相对方所接触的风险水平，公
 msgid "Depending on what you do, you can apply as our Affiliate or Introducing Broker, or both. More new clients from you means higher potential commissions."
 msgstr "您可以申请成为我们的联盟会员或推介经纪，或两者兼之，这取决于您的业务性质。您介绍的新客户越多意味着有更多获得佣金的机会。"
 
+msgid "Depending on where the client lives, the client's account will be governed by the laws of the country of incorporation of the company that the client's account is registered with as set out below. If the client has registered more than one account with more than one company, each account will be governed by the law of the country of incorporation of the company that each individual account has been registered with. The client agrees to submit to the applicable jurisdiction's courts and bring any claim the client may have before them. These courts will have sole authority to settle any disputes that may arise between the client and the Company."
+msgstr "根据不同的客户居住地，客户账户将受客户注册账户的公司成立所在国家/地区法律的约束，如下所述。如果客户在一个以上的公司注册了一个以上的账户，则每个账户均须受其通过每个公司注册的所在国的法律约束。客户同意服从适用司法管辖区的法院向客户提起的任何索赔。这些法院拥有解决客户与公司之间可能发生的任何纠纷的唯一权力。"
+
 msgid "Depending on your broker or trading platform, you can start trading from the time the Sydney market opens on Monday morning to the time the New York market closes on Friday evening – up to 24 hours a day, five days a week."
 msgstr "您可根据经纪商或交易平台的规定，从周一早上悉尼市场开放时间到周五晚上纽约市场关闭时间这段期间内随时开始，每周五天，每天24小时交易。"
 
@@ -3419,11 +3560,11 @@ msgstr "通过国际银行电汇存入和提取资金。"
 msgid "Deposit as little as 5 USD to start trading."
 msgstr "存款最低仅需5美元即可开始交易."
 
+msgid "Deposit into or withdraw from your real account"
+msgstr "通过您的真实账户存取款"
+
 msgid "Deposit or withdraw below"
 msgstr "在下方存款或提款"
-
-msgid "Deposit or withdraw to your account via bank wire, credit card, or e-wallet."
-msgstr "通过银行电汇、信用卡或电子钱包向您的账户存款或提款。"
 
 msgid "Deposit: %1 blockchain confirmations"
 msgstr "存款： %1区块链确认"
@@ -3455,17 +3596,17 @@ msgstr "Deriv (BVI) Ltd,"
 msgid "Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands. Licensed and regulated by the British Virgin Islands Financial Services Commission - %1view licence%2."
 msgstr "Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands. 由英属维尔京群岛的金融服务委员会授权和管理- %1查看许可证%2。"
 
+msgid "Deriv (BVI) Ltd: British Virgin Islands"
+msgstr "Deriv (BVI) Ltd: 英属维尔京群岛"
+
 msgid "Deriv (Europe) Limited"
 msgstr "Deriv (欧洲) 有限公司"
-
-msgid "Deriv (Europe) Limited & Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033"
-msgstr "Deriv (Europe) Limited & Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033"
 
 msgid "Deriv (Europe) Limited,"
 msgstr "Deriv (Europe) Limited,"
 
-msgid "Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta. Licensed and regulated (for gambling products only - %1's Synthetic Indices) by the Malta Gaming Authority in Malta  (licence no. %2) - %3view licence%4 and also maintains an Irish licence. For UK clients by the UK Gambling Commission - %5view licence%4."
-msgstr "Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta。公司经马耳他博彩局授予牌照并受其监管（仅博彩产品-%1的综合指数），（牌照号%2）- %3查看牌照%4，同时也拥有爱尔兰牌照。而英国客户由英国博彩委员会授予牌照和监管 - %5查看牌照%4。"
+msgid "Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta, is licensed and regulated (for gambling products only - %1's Synthetic Indices) by the Malta Gaming Authority in Malta (%2licence no. MGA/B2C/102/2000%4), by the Gambling Commission for clients in Great Britain under (%3account no. 39495%4), and by the Revenue Commissioners for clients in Ireland (licence no. 1010285)."
+msgstr ""
 
 msgid "Deriv (Europe) Limited, or"
 msgstr "Deriv (Europe) Limited, 或"
@@ -3476,26 +3617,26 @@ msgstr "Deriv (FX) Ltd"
 msgid "Deriv (FX) Ltd,"
 msgstr "Deriv (FX) Ltd,"
 
-msgid "Deriv (FX) Ltd, Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Federal Territory of Labuan"
-msgstr "Deriv (FX) Ltd, Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Federal Territory of Labuan"
-
 msgid "Deriv (FX) Ltd, or"
 msgstr "Deriv (FX) Ltd, 或"
 
 msgid "Deriv (FX) Ltd., Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Federal Territory of Labuan, Malaysia. Licensed and regulated by the Labuan Financial Services Authority to carry on a money-broking business %1(licence no. MB/18/0024)%2."
 msgstr "Deriv (FX) Ltd., 地址是 Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Federal Territory of Labuan, Malaysia。由Labuan 金融服务管理局授予许可证执行资金经纪业务%1(许可证编号MB/18/0024)%2和监管。"
 
+msgid "Deriv (FX) Ltd: Labuan, Territory of Malaysia"
+msgstr "Deriv (FX) Ltd: 纳闽，马来西亚直辖区"
+
 msgid "Deriv (MX) Ltd"
 msgstr "Deriv (MX) Ltd"
 
-msgid "Deriv (MX) Ltd, First Floor, Millennium House, Victoria Road, Douglas, IM2 4RW"
-msgstr "Deriv (MX) Ltd, First Floor, Millennium House, Victoria Road, Douglas, IM2 4RW"
-
-msgid "Deriv (MX) Ltd, First Floor, Millennium House, Victoria Road, Douglas, Isle of Man, IM2 4RW. Licensed and regulated by the Gambling Supervision Commission in the Isle of Man (current online gambling licence granted on the 31 August 2017) - %1view licence%2 and for UK clients by the UK Gambling Commission - %3view licence%2."
-msgstr "Deriv (MX) Ltd, First Floor, Millennium House, Victoria Road, Douglas, Isle of Man, IM2 4RW。公司经马恩岛博彩监管委员会授予牌照并受其监管（当前在线博彩牌照的授予时间是 2017 年 8 月 31 日）- %1查看牌照%2，英国客户则由英国博采委员会授予牌照和监管 - %3查看牌照%2。"
+msgid "Deriv (MX) Ltd, Millennium House, Level 1, Victoria Road, Douglas IM2 4RW, Isle of Man, is licensed and regulated in Great Britain by the Gambling Commission under %1account no. 39172%3 and by the Gambling Supervision Commission in the Isle of Man (%2view licence%3)."
+msgstr ""
 
 msgid "Deriv (MX) Ltd."
 msgstr "Deriv (MX) Ltd."
+
+msgid "Deriv (MX) Ltd: the Isle of Man"
+msgstr "Deriv (MX) Ltd: 马恩岛"
 
 msgid "Deriv (SVG) LLC"
 msgstr "Deriv (SVG) LLC"
@@ -3506,6 +3647,9 @@ msgstr "Deriv (SVG) LLC,"
 msgid "Deriv (SVG) LLC, Hinds Buildings, Kingstown, St. Vincent and the Grenadines; company number 25299 BC 2019."
 msgstr "Deriv (SVG) LLC, Hinds Buildings, Kingstown, 圣文森特和格林纳丁斯; 公司编号：25299 BC 2019。"
 
+msgid "Deriv (SVG) LLC: St. Vincent and the Grenadines"
+msgstr "Deriv (SVG) LLC: 圣文森特和格林纳丁斯"
+
 msgid "Deriv (V) Ltd"
 msgstr "Deriv (V) Ltd"
 
@@ -3514,6 +3658,9 @@ msgstr "Deriv (V) Ltd,"
 
 msgid "Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, Republic of Vanuatu. Licensed and regulated by the Vanuatu Financial Services Commission - %1view licence%2."
 msgstr "Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, Republic of Vanuatu。由瓦努阿图金融服务委员会授权和管理- %1查看许可证%2。"
+
+msgid "Deriv (V) Ltd: Vanuatu"
+msgstr "Deriv (V) Ltd: 瓦努阿图"
 
 msgid "Deriv Group members are sometimes referred to collectively as \"%1\" or \"the Company\"."
 msgstr "Deriv 集团成员有时统称为 \"%1\" 或 \"公司\"。"
@@ -3527,14 +3674,23 @@ msgstr "Deriv Investments (Europe) Limited"
 msgid "Deriv Investments (Europe) Limited aggregates the Bid and Ask prices from a pool of liquidity providers to determine and offer the client the best available price of the instrument. The Company is always the final counterparty to the client's Transactions. The Company may execute Orders on behalf of its client, wherein the Company will act as a broker and pass on the Order to the liquidity provider for execution. Alternatively, the Company may also keep the client's Order on its own account, wherein the Company will take the other side of the client's trade. It is further noted that the Company may make a profit as a result of the client's losses and vice-versa. Further details can be found under Conflicts of interest policy and Order execution policy."
 msgstr "Deriv Investments (Europe) Limited 从流动性供应商池聚集买入价和卖出价, 以向客户确定和提供相关工具最优惠的价格。公司始终是客户交易的最终对手。公司可以充当经纪人代表客户执行订单, 并将订单传递给流动性提供商执行。另外, 公司也可以自行保留客户的订单, 成为客户交易的另一方。进一步指出, 公司可能会因客户蒙受损失而获利, 反之亦然。有关详细信息, 请参阅公司的利益冲突政策和订单执行政策。"
 
+msgid "Deriv Investments (Europe) Limited and Deriv (Europe) Limited: Malta"
+msgstr "Deriv Investments (Europe) Limited 和 Deriv (Europe) Limited: 马耳他"
+
+msgid "Deriv Investments (Europe) Limited is a company established in Malta, at W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033. It is licensed in Malta and regulated by the Malta Financial Services Authority, Triq l-Imdina, Zone 1, Central Business District, Birkirkara CBD 1010, Malta, under the Investments Services Act to provide investment services in the European Union."
+msgstr "Deriv Investments (Europe) Limited 公司在马耳他设立，地址是 W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033。由位于Triq l-Imdina, Zone 1, Central Business District, Birkirkara CBD 1010, Malta 的马耳他金融服务机构根据投资服务法令授予许可证并受其监管，在欧盟提供投资服务。"
+
 msgid "Deriv Investments (Europe) Limited is entitled to provide services in another EU Member State through EU passporting rights. Refer to the map below for the list of EU countries that have access to %1 via EU passporting rights - freedom to provide cross border services."
 msgstr "Deriv Investments (Europe) Limited 有权通过欧盟金融护照权利在另一欧盟成员国提供服务。请参阅以下地图查看有权通过欧盟金融护照（自由提供跨国界服务）权利访问%1的欧盟国家列表。"
 
 msgid "Deriv Investments (Europe) Limited is required to collect your tax information."
 msgstr "Deriv 投资 (欧洲) 有限公司需要收集您的税务信息。"
 
-msgid "Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta. Licensed and regulated as a Category 3 Investment Services provider by the Malta Financial Services Authority (%1licence no. IS/70156%2)."
-msgstr "Deriv Investments (Europe) Limited，地址为 W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta。由马耳他金融服务机构授予牌照及监管为3级投资服务提供商(%1牌照号码为 IS/70156%2)。"
+msgid "Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta, is licensed in Malta and authorised by the Malta Financial Services Authority under the Investments Services Act to provide investment services in the European Union."
+msgstr "Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta 在马耳他获得许可证，并根据《投资服务法》受马耳他金融服务管理局监管，可在欧盟提供投资服务。"
+
+msgid "Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta, is licensed in Malta and regulated by the Malta Financial Services Authority under the Investments Services Act to provide investment services in the European Union (%1licence no. IS/70156%2). It is also authorised and subject to limited regulation by the Financial Conduct Authority in the UK. Details about the extent of our authorisation and regulation by the Financial Conduct Authority are available from us on request."
+msgstr "Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta 在马耳他获得许可证，并根据《投资服务法》受马耳他金融服务管理局监管，可在欧盟提供投资服务（ %1许可证编号 IS/70156%2）。同时也经由英国金融行为监管局授权并受其监管。我们可应要求提供有关金融行为监管局授权和监管范围的详细信息。"
 
 msgid "Deriv Investments (Europe) Limited, or"
 msgstr "Deriv Investments (Europe) Limited, 或"
@@ -3547,9 +3703,6 @@ msgstr "Deriv 有限公司"
 
 msgid "Deriv Limited, with registered office at 47 Esplanade, St Helier, Jersey JE1 0BD, Channel Islands, is the holding company for the subsidiaries listed below."
 msgstr "Deriv 有限公司的注册办事处位于 47 Esplanade, St. Helier, Jersey, JE 0BD Channel Islands，为下列子公司的控股公司。"
-
-msgid "Deriv Services Sdn. Bhd., C-13, iTech Tower, Jalan Impact, Cyber 6, 63000 Cyberjaya, Selangor Darul Ehsan"
-msgstr "马来西亚雪兰莪州 (Selangor) 赛柏再也市 (Cyberjaya), Cyber 6, Jalan Impact, iTech Tower, C-13室，邮编 63000，Deriv Services 有限公司"
 
 msgid "Deriv.com launched"
 msgstr "Deriv.com 已推出"
@@ -3653,6 +3806,9 @@ msgstr "免责声明"
 msgid "Discover what’s new"
 msgstr "探索新增内容"
 
+msgid "Dismiss alert"
+msgstr "消除警报"
+
 msgid "Display your proof of address when prompted."
 msgstr "出现提示时请提交地址证明。"
 
@@ -3710,11 +3866,26 @@ msgstr "文档类型"
 msgid "Document and administer database policies, procedures, and standards"
 msgstr "记录和管理数据库策略、过程和标准"
 
+msgid "Document example"
+msgstr "文档示例"
+
 msgid "Document our current and intended future systems and software architecture"
 msgstr "将当前和将来打算使用的系统和软件架构记录入档"
 
 msgid "Document submission status"
 msgstr "文档提交状态"
+
+msgid "Document uploaded"
+msgstr "文档已上传"
+
+msgid "Documents from that country are not currently supported — <fallback>try another document type</fallback>"
+msgstr "当前不支持该国家/地区的文档-<fallback>尝试其他文档类型</fallback>"
+
+msgid "Documents uploaded"
+msgstr "文档已上传"
+
+msgid "Documents you can use to verify your identity"
+msgstr "可用于验证身份的文件"
 
 msgid "Does Not Touch"
 msgstr "未触及"
@@ -3724,6 +3895,9 @@ msgstr "有效率地工作, 并激励别人也这样做。"
 
 msgid "Don't have a %1 account yet?"
 msgstr "还没有%1账户？"
+
+msgid "Don't refresh this page"
+msgstr "不要刷新此页面"
 
 msgid "Don't share your %1 account or payment methods with any other person."
 msgstr "不可与任何人分享您的％1账户或付款方式。"
@@ -3770,6 +3944,9 @@ msgstr "DragonPhoenix 是允许东南亚各地客户进行网上银行转账的�
 msgid "Drive rapid growth and business development to support the company's sales and marketing objectives"
 msgstr "推动快速增长和业务发展，以支持公司的销售和市场营销目标"
 
+msgid "Driver's license"
+msgstr "驾驶执照"
+
 msgid "Driving licence"
 msgstr "驾驶执照"
 
@@ -3793,6 +3970,12 @@ msgstr "迪拜的标志性建筑包括世界上最高的建筑、人工岛屿、
 
 msgid "Dubai, United Arab Emirates"
 msgstr "迪拜, 阿拉伯联合酋长国"
+
+msgid "Due to an issue on our server, some MT5 accounts are unavailable at the moment. Please bear with us and thank you for your patience."
+msgstr "由于服务器发生问题，一些MT5账户目前无法使用。请耐心配合，非常感谢。"
+
+msgid "Due to an issue on our server, some of your MT5 accounts are unavailable at the moment. %1Please bear with us and thank you for your patience."
+msgstr "由于服务器发生问题，一些MT5账户目前无法使用。％1请耐心配合，非常感谢。"
 
 msgid "Due to market volatility and gold's reputation as a safe-haven asset, you predict that the price of gold will rise."
 msgstr "由于市场波动和黄金作为安全保障资产的声誉，您预测黄金价格将上涨。"
@@ -3893,9 +4076,6 @@ msgstr "每次开加密货币对头寸时, 您都可以由上表所示的最小�
 msgid "Each time you open a position on an index symbol, you can start with a minimum volume transaction as indicated in the table above."
 msgstr "每次开指标符号头寸时, 您都可以由上表所示的最小交易额开始。"
 
-msgid "Each time you send us an order, you are charged a commission, which is equal to the asset price multiplied by the percentage seen in the above table."
-msgstr "每次发送订单时, 我们会向您收取佣金, 佣金率相等于资产价格乘以上表中显示的百分比。"
-
 msgid "Each transfer is subject to a %1 transfer fee or a minimum fee of %2, whichever is higher."
 msgstr "每次转账需支付%1转账费或最低费用%2, 以较高者为准。"
 
@@ -3983,6 +4163,9 @@ msgstr "启用"
 msgid "Enable %1two-factor authentication%2 on your account."
 msgstr "在您的账户上启用 %1双重身份验证%2。"
 
+msgid "Enable camera"
+msgstr "启用相机"
+
 msgid "Enable two-factor authentication for an extra layer of security."
 msgstr "为双重安全保障启用双因素身份验证。"
 
@@ -4034,6 +4217,9 @@ msgstr "享受令人兴奋的机会和实时图表和定价的优势，进行股
 msgid "Enjoy our fastest type of trading with our Tick Trade app, wherever you are."
 msgstr "随时随地使用Tick Trade应用程序，享受我们速度最快的交易。"
 
+msgid "Enlarge image"
+msgstr "放大图像"
+
 msgid "Ensure that your original documents are ready when the video call starts"
 msgstr "视频通话开始时请确保准备好原始文档"
 
@@ -4043,6 +4229,9 @@ msgstr "确保每个页面或产品的设计和开发与我们的样式指南一
 msgid "Ensure the integrity of releases by coordinating testing activities"
 msgstr "通过协调测试活动确保发布的完整性"
 
+msgid "Enter mobile number"
+msgstr "输入手机号"
+
 msgid "Enter payment agent ID"
 msgstr "输入付款代理 ID"
 
@@ -4051,6 +4240,9 @@ msgstr "输入以下应用程序生成的身份验证代码:"
 
 msgid "Enter your email"
 msgstr "请输入您的电子邮件"
+
+msgid "Enter your mobile number:"
+msgstr "输入手机号："
 
 msgid "Entertainment"
 msgstr "娱乐"
@@ -4133,9 +4325,6 @@ msgstr "欧元兑土耳其里拉"
 msgid "Euro vs US dollar"
 msgstr "欧元兑美元"
 
-msgid "European Union residents who wish to trade gambling products will have their accounts opened with Deriv (Europe) Limited."
-msgstr "想要进行产品博彩交易的欧盟居民将在 Deriv (Europe) Limited 开设账户。"
-
 msgid "European Union residents who wish to trade investment products will have their accounts opened with Deriv Investments (Europe) Limited."
 msgstr "想要进行产品博彩交易的欧盟居民将在 Deriv Investments (Europe) Limited 开设账户。"
 
@@ -4165,6 +4354,15 @@ msgstr "违约事件"
 
 msgid "Everyone else can use the FIX API to connect to our One Zero bridge – subject to a conformance test."
 msgstr "其他人可以使用FIX API 连接到我们的One Zero桥梁，条件是须通过合格测试。"
+
+msgid "Example of a blurry document"
+msgstr "模糊不清文档的示例"
+
+msgid "Example of a cut-off document"
+msgstr "剪切文件示例"
+
+msgid "Example of a document with glare"
+msgstr "带有眩光的文档示例"
 
 msgid "Example:"
 msgstr "例如:"
@@ -4251,7 +4449,7 @@ msgid "Expat handbook"
 msgstr "外籍人士手册"
 
 msgid "Expats and international students make up more than 10% of Cyberjaya's vibrant population."
-msgstr "Cyberjaya的活跃人口有10% 以上是外籍人士和国际学生。"
+msgstr "赛柏再也的活跃人口有10% 以上是外籍人士和国际学生。"
 
 msgid "Experience as a Postgres DBA, with advanced hands-on knowledge of"
 msgstr "拥有Postgres DBA经验, 具丰富的实践知识"
@@ -4466,6 +4664,12 @@ msgstr "外汇-主要货币对、外汇-次要货币对、外汇-奇异货币对
 msgid "FXOpen"
 msgstr "FXOpen"
 
+msgid "Face forward and make sure your eyes are clearly visible"
+msgstr "面向前方并确保您的眼睛清晰可见"
+
+msgid "Face photo page"
+msgstr "脸部相片页面"
+
 msgid "Facility that allows you to set limits on your account."
 msgstr "可让您对帐户设置限制的设施。"
 
@@ -4532,8 +4736,8 @@ msgstr "二月"
 msgid "February"
 msgstr "二月"
 
-msgid "Feel free to contact our friendly and helpful customer service experts. They're always available to answer your questions. You can contact us via email and telephone."
-msgstr "请随时联系我们热情友善的客服专员。他们将全天候回答您的问题。您可通过电子邮件和电话与我们联系。"
+msgid "Feel free to contact our friendly and helpful customer service experts. They're always available to answer your questions. You can contact us via live chat."
+msgstr "请随时联系我们热情友善的客服专员。他们将全天候回答您的问题。您可通过即时聊天与我们联系。"
 
 msgid "Feel free to get in touch with us at %1. We'd love to hear from you."
 msgstr "随时透过%1与我们联系。我们很乐意为您提供服务。"
@@ -4562,8 +4766,17 @@ msgstr "文件 (%1) 大小超过允许限额。允许的最大文件大小: %2"
 msgid "File Name"
 msgstr "文件名"
 
+msgid "File not uploaded."
+msgstr "文件未上传。"
+
 msgid "File records and documents of customer interactions according to existing guidelines"
 msgstr "根据现有准则保存客户互动的记录和文档"
+
+msgid "File size exceeded."
+msgstr "超过了文件大小。"
+
+msgid "File type not supported"
+msgstr "文件类型不受支持"
 
 msgid "Filtering Controls"
 msgstr "过滤控制"
@@ -4608,7 +4821,7 @@ msgid "Financial assessment"
 msgstr "金融评估"
 
 msgid "Financial concerns"
-msgstr "金融事项"
+msgstr "财务事项"
 
 msgid "Financial derivatives that allow you to trade on the movement of underlying assets."
 msgstr "金融衍生产品让您交易标的资产的走势。"
@@ -4676,6 +4889,9 @@ msgstr "跟踪内容可交付结果的已建立工作流"
 msgid "Follow the law and these Terms"
 msgstr "遵守法律和以下条款"
 
+msgid "Follow these steps to recover camera access:"
+msgstr "请按照以下步骤恢复相机访问权限："
+
 msgid "Follow up on the recommendations and timeline for corrective actions with department heads"
 msgstr "与部门主管一起跟进纠正措施的建议和时间表"
 
@@ -4684,18 +4900,6 @@ msgstr "跟踪、遵守和执行经修订或重新制订或随时更换的公司
 
 msgid "Food Services"
 msgstr "饮食服务"
-
-msgid "For Deriv (MX) Ltd, the applicable Jurisdiction shall be the Isle of Man."
-msgstr "Deriv (MX) Ltd 适用的管辖权应为马恩岛。"
-
-msgid "For Deriv (SVG) LLC, the applicable Jurisdiction shall be St. Vincent and the Grenadines."
-msgstr "Deriv (SVG) LLC 适用的管辖权应为圣文森特和格林纳丁斯。"
-
-msgid "For Deriv Investments (Europe) Limited and Deriv (Europe) Limited, the applicable Jurisdiction shall be Malta."
-msgstr "Deriv Investments (Europe) Limited 和 Deriv (Europe) Limited 适用的管辖权应为马耳他。"
-
-msgid "For affiliate, partnership, and other marketing-related queries:"
-msgstr "与联盟、合作伙伴和其他与市场营销相关的查询专用:"
 
 msgid "For details on submitting a complaint to the Company's lead supervisory authority on data processing practices, the client is encouraged to check %1's %2Complaints and disputes%3 section."
 msgstr "关于就公司的数据处理方式事宜向公司的主要监督机构提交投诉的详细信息, 建议客户查看%1的%2控诉和争议%3 章节。"
@@ -4751,23 +4955,17 @@ msgstr "受全额保护的账户的未平仓头寸不收保证金。但掉期和
 msgid "For further assistance, email us at %1partners@binary.com%2"
 msgstr "如果需要进一步帮助，请发送电子邮件至 %1partners@binary.com%2"
 
-msgid "For general support:"
-msgstr "一般支持："
-
 msgid "For information about forex leverage refer to our %1Margin Policy%2."
 msgstr "有关外汇杠杆的信息, 请参阅我们的 %1保证金政策%2。"
 
 msgid "For information about forex leverage, refer to our %1Margin Policy%2."
 msgstr "有关外汇杠杆的信息, 请参阅我们的 %1保证金政策%2。"
 
-msgid "For more information and assistance to counselling and support services, please visit %1."
-msgstr "有关咨询和支持服务的更多信息和帮助，请访问%1。"
+msgid "For more information about counselling and support services, please visit %1."
+msgstr "有关咨询和支持服务的更多信息，请访问%1。"
 
 msgid "For more information, please visit %1."
 msgstr "有关更多信息，请访问％1。"
-
-msgid "For payments-related queries:"
-msgstr "付款相关的查询："
 
 msgid "For the third straight year, BetOnMarkets.com is voted 'Best Fixed-Odds Financial Trading Provider' by Shares Magazine UK. It's the last time we win it because Shares Magazine stops awarding in this category."
 msgstr "连续第三年，BetOnMarkets.com被英国财经杂志《Shares Magazine》评为“最佳固定赔率金融交易提供商”。这是我们最后一次获奖，因为该杂志已停止颁发这一类奖项。"
@@ -4850,6 +5048,9 @@ msgstr "DIEL 可能会陆续决定通过在其网站上发布或以任何其他�
 msgid "Front Side"
 msgstr "前侧"
 
+msgid "Front and back"
+msgstr "前和后"
+
 msgid "Front side"
 msgstr "前侧"
 
@@ -4885,6 +5086,9 @@ msgstr "七、管理规定"
 
 msgid "GAMSTOP is a free service that enables you to self-exclude from all online gambling companies licensed in Great Britain."
 msgstr "GAMSTOP 免费提供服务, 使您能够在英国授权的所有在线博彩公司自我禁止交易。"
+
+msgid "GAMSTOP is a free service that enables you to self-exclude from all online gambling companies licensed in Great Britain. To find out more and to sign up, please visit %1."
+msgstr "GAMSTOP 免费提供服务, 使您能够自我禁止在英国授权的所有在线博彩公司交易。要了解更多信息并进行注册，请访问％1。"
 
 msgid "GBE Brokers"
 msgstr "GBE 经纪人"
@@ -4946,20 +5150,26 @@ msgstr "高额佣金"
 msgid "Get %1"
 msgstr "获取 %1"
 
-msgid "Get 10,000.00 USD"
-msgstr "获取 10,000.00 美元"
-
 msgid "Get Started"
 msgstr "开始交易"
 
+msgid "Get link via SMS"
+msgstr "通过简讯获取链接"
+
 msgid "Get out of the city centre and enjoy the serenity of island life free from the excesses of commercialisation. Friendly, helpful locals are also never far off."
 msgstr "离开繁忙的市中心，享受宁静的岛屿生活，摆脱过度商业化的压力。还有友好和乐于助人的当地人与您为邻。"
+
+msgid "Get secure link"
+msgstr "获取安全链接"
 
 msgid "Get started with MT5"
 msgstr "开始使用MT5"
 
 msgid "Get your price"
 msgstr "获取报价"
+
+msgid "Get your secure link"
+msgstr "获取您的安全链接"
 
 msgid "Getting Started"
 msgstr "开始交易"
@@ -4969,6 +5179,9 @@ msgstr "开始交易"
 
 msgid "Given the Company's role as a Margin trading service provider as described in this agreement, the Company seeks to avoid undue market influence to the extent consistent with the client's trading needs and the Company's risk management policies and procedures. By continuing to use the Margin trading services described in this agreement, the client acknowledges that they are aware of the potential conflict of interest disclosed that may arise and cannot be completely eliminated, and they consent to the Company acting notwithstanding such potential conflict of interests."
 msgstr "公司是融资融券交易服务提供商，如本协议所述，公司尽量不让市场影响客户的交易需求，同时维护公司的风险管理政策和程序。通过继续使用本协议所述的融资融券交易服务，客户承认并已了解，所披露利益的潜在冲突可能会出现以及不能完全排除，即使存在这种潜在利益冲突，客户也同意公司的行动。"
+
+msgid "Glare detected"
+msgstr "检测到眩光"
 
 msgid "Global Banking & Finance Awards"
 msgstr "全球银行和金融奖"
@@ -5057,8 +5270,14 @@ msgstr "适用法律和司法管辖权"
 msgid "Government Officers"
 msgstr "政府官员"
 
+msgid "Grant access to your camera from your browser settings"
+msgstr "通过浏览器设置给予相机的访问权限"
+
 msgid "Graphics Designer"
 msgstr "平面设计师"
+
+msgid "Great, that's everything we need"
+msgstr "太好了，这就是我们需要的一切信息"
 
 msgid "Group History"
 msgstr "集团历史"
@@ -5110,6 +5329,9 @@ msgstr "以下是公司使用的有关数据馈送的一些信息。"
 
 msgid "Here's an example of the EUR/USD currency pair and its bid-ask price:"
 msgstr "以下是欧元/美元货币对和买卖价的例子："
+
+msgid "Here's how to do it:"
+msgstr "这是做法："
 
 msgid "Here, you can set and adjust the amount of money and time you spend trading on SmartTrader, WebTrader, and Binary Bot. Setting your limits is optional and you can adjust them at any time. If you don’t wish to set a specific limit, leave the field blank."
 msgstr "在这里，您可以设置和调整在 SmartTrader、WebTrader 和 Binary Bot 的交易金额和时间。设置限制是可选的，您可以随时进行调整。如果不想设置特定的限制，请将该字段留空。"
@@ -5243,14 +5465,14 @@ msgstr "如何斩仓"
 msgid "How to manage your funds"
 msgstr "如何管理资金"
 
-msgid "How to read the commission and swap scheme table"
-msgstr "如何阅读佣金和掉期计划表"
-
 msgid "How to read the contract specifications table"
 msgstr "如何阅读合约规格表"
 
 msgid "How to read the table above"
 msgstr "如何读取上面的表"
+
+msgid "How to scan a QR code"
+msgstr "如何扫描 QR 码"
 
 msgid "How to trade CFDs"
 msgstr "差价合约如何交易"
@@ -5396,6 +5618,12 @@ msgstr "如果%1因法律、法规或具有司法管辖权的法庭或政府机�
 msgid "If DIEL decides to introduce a new trading platform, it shall provide the client with a relevant notice within 30 days before it introduces the new trading platform or the additional trading platform. In such a notice, DIEL will outline information including, but not limited to, features and operations of the new trading platform. Thus, using its backup database on the MT5 trading platform, DIEL shall integrate all data to the new trading platform, including but not limited to open trades, historical trades/data, and accounts."
 msgstr "如果DIEL决定引入新的交易平台, 其将在推出新交易平台或附加交易平台前30天内向客户提供相关通知。DIEL将在通知里概述包括但不限于新交易平台的功能和操作的信息。因此, 在 MT5 交易平台使用DIEL的备份数据库时, DIEL将把包括但不限于开放交易、历史交易/数据和账户的所有数据集合在新的交易平台上。"
 
+msgid "If a court or regulatory body of competent jurisdiction declares any provision of the Terms to be invalid or unenforceable, the rest of the Terms shall remain in full force and effect."
+msgstr "如果具有管辖权的法院或监管机构宣布本条款中的任何条文无效或无法执行，则本条款中的其余条文须保持完全有效。"
+
+msgid "If a trade becomes unavailable after the transaction is made but before the trade is executed, the client may request a refund of the charged price. The Company reserves the right to accept or reject the client’s request after investigating the client’s claim. If technical problems prevent the execution of a trade, for example, if a disruption occurs in the data feeds that the Company cannot readily fix, the Company reserves the right to refund or reverse the trade."
+msgstr "如果在付款之后但在交易执行之前无法进行交易，则客户可以要求退回收费。在调查客户的索赔后，公司保留接受或拒绝客户请求的权利。如果因为技术问题的原因阻止交易执行，例如，如果发生数据馈送中断而公司无法迅速解决，公司保留退款或撤销交易的权利。"
+
 msgid "If an actual or potential conflict appears in the course of your work, they must declare it to %1compliance@binary.com%2"
 msgstr "如果在您的工作过程中出现实际或潜在冲突，请向 %1compliance@binary.com%2声明"
 
@@ -5419,6 +5647,9 @@ msgstr "如果本协议的任何条款经法院或有管辖权的监管机构判
 
 msgid "If force majeure events last for more than 30 business days, the Party not suffering force majeure events may terminate this agreement immediately."
 msgstr "如果不可抗力事件持续超过 30 个工作日，没遭受不可抗力事件的一方可以立即终止本协议。"
+
+msgid "If it doesn’t work, download a QR code scanner from Google Play or the App Store"
+msgstr "如果无法扫描，请从Google Play 或 App Store 下载 QR 码扫描应用"
 
 msgid "If such documents expire, the Company reserves the right to request updated documentation."
 msgstr "如果此类文件到期，公司保留要求更新文档的权利。"
@@ -5501,14 +5732,14 @@ msgstr "如果客户的 MT5 真实账户有剩余款项, 客户可以将此余�
 msgid "If the client is an individual, they are over 18 years old and they have full capacity to enter into this agreement."
 msgstr "如果客户是个人，年满 18 岁，并有充分能力签订本协议。"
 
-msgid "If the client wishes to withdraw funds from their MT5 Real Account and close their MT5 Real Account, they may notify the Company by contacting %1 helpdesk %2. The client's MT5 Real Account may be closed if they do not have any Open Positions and all the amounts that were due to the Company have been settled."
-msgstr "如果客户想从MT5真实账户提款并关闭其MT5真实账户，客户可通过 %1 联系客服部%2通知公司。如果客户没有任何未平仓头寸及所有款项都已结清，其MT5真实账户可以关闭。"
+msgid "If the client wishes to withdraw funds from their MT5 Real Account and close their MT5 Real Account, they may notify the Company via %1live chat%2. The client's MT5 Real Account may be closed if they do not have any Open Positions and all the amounts that were due to the Company have been settled."
+msgstr "如果客户想从MT5真实账户提款并关闭其MT5真实账户，客户可通过 %1实时聊天%2通知公司。如果客户没有任何未平仓头寸及所有款项都已结清，其MT5真实账户可以关闭。"
 
-msgid "If the client wishes to withdraw funds from their MT5 Real Account and/or close their MT5 Real Account, the client may notify the Company by contacting the helpdesk at %1. The client's MT5 Real Account may be closed if the client does not have any Open Positions and all amounts due to the Company have been settled."
-msgstr "如果客户想从MT5真实账户提款和/或关闭其MT5真实账户，客户可通过 %1 联系客服部通知公司。如果客户没有任何未平仓头寸及所有欠公司款项都已结清，其MT5真实账户可以关闭。"
+msgid "If the client wishes to withdraw funds from their MT5 Real Account and/or close their MT5 Real Account, the client may notify the Company via %1live chat%2. The client's MT5 Real Account may be closed if the client does not have any Open Positions and all amounts due to the Company have been settled."
+msgstr "如果客户想从MT5真实账户提款和/或关闭其MT5真实账户，客户可通过 %1实时聊天%2通知公司。如果客户没有任何未平仓头寸及所有欠公司款项都已结清，其MT5真实账户可以关闭。"
 
-msgid "If the client would like to file a complaint with regards to the Company's service, the client can contact the Company at %1, providing any relevant details relating to the client's complaint. The Company will investigate each inquiry and provide a final response in the shortest time possible."
-msgstr "如果客户想投诉公司的服务，可在%1与公司联系并提供所有相关的细节。公司将调查所有询问并尽快予以最终答复。"
+msgid "If the client would like to file a complaint with regards to the Company's service, the client can contact the Company at %1, providing any relevant details relating to the client's complaint. %2If you are registered with Deriv (Europe) Limited, you can also place a complaint by calling %3.%4 The Company will investigate each inquiry and provide a final response in the shortest time possible."
+msgstr "如果客户想投诉公司的服务，可在%1与公司联系并提供所有相关的细节。％2如果您已在 Deriv（Europe）Limited 注册，则也可以致电％3.％4提出投诉。公司将调查所有询问并尽快予以最终答复。"
 
 msgid "If the client's %1 account is closed, their MT5 Real Account will be automatically closed as well."
 msgstr "如果客户的%1账户已关闭, 其 MT5 真实账户也将自动关闭。"
@@ -5537,11 +5768,8 @@ msgstr "如果我们决定录用，我们将检查应聘者的背景和介绍人
 msgid "If we have reason to believe that your tax information is incomplete, we may contact you for clarification."
 msgstr "如果我们有理由相信您的税务信息不完整, 我们将与您联系, 以作澄清。"
 
-msgid "If you are a UK resident, to self-exclude from all online gambling companies licensed in Great Britain, go to %1."
-msgstr "如您是英国居民，并要自我禁止在所有英国注册的在线博彩公司交易, 请转到%1。"
-
 msgid "If you are considering self-exclusion, you may wish to register with GAMSTOP."
-msgstr "如果您要自我禁止, 您可考虑在 GAMSTOP 注册。"
+msgstr "如果您要自我禁止, 可考虑在 GAMSTOP 注册。"
 
 msgid "If you are in the IOM, your limits may only be removed or increased, once the limit date setting has expired. %1Contact us%2 to remove or adjust your limits."
 msgstr "如果您是 IOM 成员，则只有在设置的限制日期过期后才能删除或增加限制。％1与我们联系％2以删除或调整限制。"
@@ -5588,11 +5816,17 @@ msgstr "如您的MT5账户有持仓头寸，请也把它全部平仓。"
 msgid "If you keep any positions open overnight, an interest adjustment will be made to your trading account as indication of the cost required to keep your position open."
 msgstr "如果您持仓隔夜，需付持仓费。此费用将以利息名义在您的交易账户中扣除。"
 
+msgid "If you live in the United Kingdom and are considering self-exclusion, you may wish to register with GAMSTOP."
+msgstr "如果您在英国居住且要自我禁止, 可考虑在 GAMSTOP 注册。"
+
 msgid "If you need assistance feel free to contact our %1Customer Support%2."
 msgstr "如果您需要帮助，请联系我们的%1客服部%2。"
 
 msgid "If you reside in the UK and are considering self-exclusion, you may wish to register with GAMSTOP."
 msgstr "如果您在英国居住且要自我禁止, 您可考虑在 GAMSTOP 注册。"
+
+msgid "If you reside in the UK and you are unhappy with our response you may escalate your complaint to the %1Financial Ombudsman Service%2."
+msgstr "如果您在英国居住，并对我们的答复不满意，则可以进一步向%1金融申诉专员服务%2提出投诉。"
 
 msgid "If you score well in the hackathon or talent test, we'll send you a Self-Assessment Topgrading Interview (SATI) questionnaire. Do well on the SATI and we'll invite you for an interview with a member of our recruitment team."
 msgstr "如果您在黑客松或人才测试中取得高分, 我们将向您发送一份自我评估精英面谈 (SATI) 问卷。如果您通过了SATI，我们将邀请您参与我们招聘团队成员的面试。"
@@ -5870,8 +6104,8 @@ msgstr "欧盟国家的金融产品交易由 Deriv Investments (Europe) Limited 
 msgid "In the EU, financial products are offered by Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, regulated as a Category 3 Investment Services provider by the Malta Financial Services Authority (%1licence no. IS/70156%2)."
 msgstr "欧盟国家的金融产品交易由Deriv Investments (Europe) Limited 提供，地址为 W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta。由马耳他金融服务机构监管为3级投资服务提供商(%1牌照号码为 IS/70156%2)。"
 
-msgid "In the Isle of Man and the UK, Synthetic Indices are offered by Deriv (MX) Ltd., First Floor, Millennium House, Victoria Road, Douglas, IM2 4RW, Isle of Man, British Isles; licensed and regulated respectively by (1) the Gambling Supervision Commission in the Isle of Man (current licence issued on 31 August 2017) and by (2) the Gambling Commission in the UK (licence %1reference no: 39172%2)."
-msgstr "英国和马恩岛的综合指数交易由Deriv (IOM) Ltd. 提供，地址为：First Floor, Millennium House, Victoria Road, Douglas, IM2 4RW, Isle of Man, British Isles；由(1) 不列颠群岛马恩岛投资监管委员会授予牌照和监管，当前在线博彩牌照于2012 年8 月31 日颁发；及(2) 英国博采委员会授予牌照和监管 (牌照 %1编号: 39172%2)。"
+msgid "In the Isle of Man and the UK, Synthetic indices are offered by Deriv (MX) Ltd, Millennium House, Level 1, Victoria Road, Douglas IM2 4RW, Isle of Man; licensed and regulated in Great Britain by (1) the Gambling Commission under %1account no. 39172%3 and by (2) the Gambling Supervision Commission in the Isle of Man (%2view licence%3)."
+msgstr ""
 
 msgid "In the UK, our clients trade through Deriv (MX) Ltd and Deriv Investments (Europe) Limited. In the Isle of Man, they trade through Deriv (MX) Ltd. In the European Union (except UK), they trade through Deriv (Europe) Limited and Deriv Investments (Europe) Limited. In the rest of the world, they trade through Deriv (SVG) LLC, Deriv (V) Ltd, Deriv (BVI) Ltd and Deriv (FX) Ltd."
 msgstr "在英国，我们的客户通过 Deriv (MX) Ltd 和 Deriv Investments (Europe) Limited 进行交易。在马恩岛，他们通过 Deriv (MX) Ltd 进行交易。在欧盟（除了英国），则通过 Deriv (Europe) Limited 和 Deriv Investments (Europe) Limited 进行交易。在全世界其他地区，客户通过 Deriv (SVG) LLC，Deriv (V) Ltd，Deriv (BVI) Ltd 和 Deriv (FX) Ltd 进行交易。"
@@ -5903,8 +6137,8 @@ msgstr "交易日结束前如果公司没有收到客户对持仓头寸决定平
 msgid "In the event that the Company is aware of an Affiliate who is in breach of any of the above provisions, the Company shall have the right, in addition to any other right or remedy available to it under this Agreement or applicable law, to immediately block the Affiliate's access to this programme. The Affiliate hereby irrevocably waives their rights to, and shall indemnify the Company and any member of the Deriv group of companies for, any claims or demands made against the Company or any member of the Deriv group of companies, their directors, officers, shareholders, or employees or against the %1 website if the Company revokes the Affiliate's access to the programme."
 msgstr "如公司发现联盟会员违反任何上述规定，除了拥有根据本协议或适用法律的任何其他权利或赔偿权利，公司有权立即阻止该联盟会员对公司的访问。该联盟会员因此不可撤销地放弃其权利，而且如果公司撤销该联盟会员对公司的访问，联盟会员须对公司及任何 Deriv 集团公司成员、其董事、职员、股东、雇员或由公司针对%1网站的任何索赔或要求索赔作出赔偿。"
 
-msgid "In the rest of the EU, Synthetic Indices are offered by Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta; licensed and regulated by (1) the Malta Gaming Authority in Malta (%1licence no. MGA/B2C/102/2000%4 issued on 01 August 2018), for UK clients by (2) the UK Gambling Commission (licence %2reference no: 39495%4), and for Irish clients by (3) the Revenue Commissioners in Ireland (Remote Bookmaker's Licence no. 1010285 issued on 1 July 2017). View complete %3Regulatory Information%4."
-msgstr "欧盟其它国家的综合指数交易由Deriv (Europe) Limited提供，地址为 W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta。由(1) 马耳他的马耳他博彩局授予牌照并受其监管（%1牌照号MGA/B2C/102/2000%4, 发照日期为2018年8月01日）。英国客户由(2) 英国博彩委员会授予牌照和监管 (牌照 %2编号: 39495%4)， 及爱尔兰客户由(3) 爱尔兰的税务局授予牌照和监管 (远程博彩公司牌照号: 1010285，发照日期为2017年7月1日)。查阅完整的%3监管信息%4。"
+msgid "In the rest of the EU, Synthetic Indices are offered by Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta; licensed and regulated by (1) the Malta Gaming Authority (%1licence no. MGA/B2C/102/2000%4), by (2) the Gambling Commission for clients in Great Britain under %2account no. 39495%4, and by (3) the Revenue Commissioners for clients in Ireland (licence no. 1010285). View complete %3Regulatory Information%4."
+msgstr ""
 
 msgid "In this Agreement, unless the context otherwise requires, the following definitions hold:"
 msgstr "本协议中，除非上下文另有解释，否则以下定义应适用："
@@ -6107,9 +6341,6 @@ msgstr "加入需要任何费用吗？"
 msgid "Is there a fee to join the %1 IB Programme?"
 msgstr "加入%1 IB 计划是否有费用？"
 
-msgid "Isle of Man"
-msgstr "马恩岛"
-
 msgid "Issued under your own name"
 msgstr "以您自己的名字发出"
 
@@ -6133,6 +6364,9 @@ msgstr "双方同意代理须于本协议的生效日期和每次交易的日期
 
 msgid "It is agreed that the Company shall not be responsible or liable for any matter arising out of or in relation to the use and operation of any website owned or used by the Agent. It is understood that the Agent shall indemnify the Company for all and any losses that the Company may suffer arising out of, or in relation to the use or operations of any website used or owned by the Agent."
 msgstr "双方同意公司不须对代理拥有与使用和操作任何网站所造成的任何事项承担任何责任。双方理解，由于代理拥有与使用或操作任何网站所造成公司可能遭受的所有和任何损失，代理须负责赔偿。"
+
+msgid "It is also authorised and subject to limited regulation by the Financial Conduct Authority in the UK. Details about the extent of our authorisation and regulation by the Financial Conduct Authority are available from us on request."
+msgstr "它也经由英国金融行为监管局授权并受其监管。我们可应要求提供有关金融行为监管局授权和监管范围的详细信息。"
 
 msgid "It is further agreed and understood that the Agent shall not use any domain name that includes the name %1 and any derivation or variation of this name that might give the impression that the Company and the Agent are the same person."
 msgstr "双方进一步同意并理解代理不可使用任何包括 %1 的名称和此名称的任何能够给人印象为公司和代理是同一法人的衍生或变化的域名。"
@@ -6164,8 +6398,24 @@ msgstr "公司承诺将随时保护客户的在线隐私。客户的个人信息
 msgid "It is the client's responsibility to keep their password and login ID confidential. The client agrees not to disclose their password and login ID to any other person."
 msgstr "维护客户的密码和登录 ID 保密性是客户的责任。客户同意不会向任何其他人透露其密码和登录 ID。"
 
-msgid "It is the responsibility of each client to read and understand this legal notice and the terms and conditions pursuant to which an acquisition of financial contracts via this site is governed."
-msgstr "所有客户都有责任阅读并理解该法律通知以及通过本网站买入金融合约需要遵循的条款和条件。"
+msgid "It is the responsibility of clients accessing this site to make sure that they understand and fully follow the relevant laws and regulations of their own country. The Company does not support any offerings or make any solicitations that are illegal in a client's country, and clients cannot use their account for such prohibited offerings. In some countries, the Company may not be permitted to offer products and services to clients unless they have taken proactive steps to solicit information about the Company's products and services and requested to be provided with them. Access to this site and the offering of certain trades via this site may be also restricted in some jurisdictions. It is the client's responsibility to know about the restrictions that apply in the client's country of residence and to observe them, as in continuing to access the Company's products and services, the client represents to the Company that the client is doing so legally and that, where relevant, the client has solicited information about the Company's products and services and requested to be provided with them."
+msgstr "访问本网站的客户有责任确保其了解并完全遵守其本国的相关法律和法规。公司不支持在客户所在国家/地区进行的任何非法报价或招揽，并且客户不可将其账户用于此类被禁止的报价。在某些国家/地区，除非客户已采取积极措施征集有关公司产品和服务的信息并要求提供给客户，否则可能公司不受允许向客户提供产品和服务。在某些司法管辖区中，也可能限制访问本网站和通过本网站提供某些交易。客户有责任了解并遵守适用于其居住国的限制，因为在继续访问公司的产品和服务时，客户向公司表明客户这样做是合法的，并且客户已向公司请求提供相关的产品和服务的信息。"
+
+msgid "It is the responsibility of each client to read and understand this legal notice and the terms and conditions (\"Terms\") pursuant to which an acquisition of financial contracts via this site is governed."
+msgstr "所有客户都有责任阅读并理解该法律通知以及通过本网站买入金融合约需要遵循的条款和条件(“条款\n"
+"”)。"
+
+msgid "It may be disconnected. <fallback>Try using your phone instead</fallback>."
+msgstr "可能没连接。<fallback>试试用您的手机</fallback>。"
+
+msgid "It may take a few minutes to arrive"
+msgstr "可能要花数分钟时间"
+
+msgid "It must be an official photo ID"
+msgstr "必须是带照片的正式身份证"
+
+msgid "It will only take a couple of minutes."
+msgstr "只需数分钟。"
 
 msgid "It's completely free to join our IB programme. We've never charged a fee and we never will."
 msgstr "加入IB计划是完全免费的。我们从未、将来也不会收取费用。"
@@ -6174,10 +6424,13 @@ msgid "It's easy. Just go to the signup page and complete the %1affiliate regist
 msgstr "方法很简单。只需进入注册页面并填写%1联盟注册表%2即可。我们会审核您的申请，并在申请批准后通知您。"
 
 msgid "It's time to expand. We set up a programming center in Cyberjaya - the Silicon Valley of Kuala Lumpur - to maintain and improve BetOnMarkets.com."
-msgstr "扩大规模的时机到了。我们在有“吉隆坡硅谷”美誉的 Cyberjaya 成立了一个编程中心，旨在维持和提高BetOnMarkets.com的效率。"
+msgstr "扩大规模的时机到了。我们在有“吉隆坡硅谷”美誉的赛柏再也成立了一个编程中心，旨在维持和提高BetOnMarkets.com的效率。"
 
 msgid "Item"
 msgstr "项目"
+
+msgid "It’ll take longer to verify you if we can’t read it"
+msgstr "如果看不清楚，就需要更长的时间进行验证"
 
 msgid "J. Electronic trading platform and transactions"
 msgstr "十、电子交易平台和交易"
@@ -6232,6 +6485,9 @@ msgstr "将我们的基础设施与当前的尖端发展保持同步"
 
 msgid "Keep safe"
 msgstr "保持安全"
+
+msgid "Keep this window open while using your mobile"
+msgstr "使用手机时保持打开此窗口"
 
 msgid "Keep track of your authorised applications."
 msgstr "跟踪您的授权应用程序。"
@@ -6358,9 +6614,6 @@ msgstr "包含您的姓名和地址的最新银行月结单或任何由政府出
 
 msgid "Law"
 msgstr "法律"
-
-msgid "Laws regarding financial contracts vary throughout the world, and it is the responsibility of clients accessing this site to ensure that they understand and fully comply with any laws or regulations relevant to themselves in their own country. This site does not constitute, and may not be used for the purposes of, an offer or solicitation to anyone in any jurisdiction in which such offer or solicitation is not authorised or to any person to whom it is unlawful to make such offer or solicitation. Access to this site and the offering of financial contracts via this site in certain jurisdictions may be restricted and, accordingly, clients accessing this site are required to inform themselves about, and to observe, such restrictions."
-msgstr "世界各地有关金融合约的法律各不相同，访问本网站的客户有责任确保自己了解并完全遵守所在国家与其相关的法律规定。本网站不被用于以下目的：访客发布在某司法管辖区未经授权的要约或要约邀请；访客向任何人士作出非法的要约或要约邀请。部分司法辖区限制访问本网站以及其提供的金融合约，访问的客户须自行获知，并遵守此类限制。"
 
 msgid "Lay out mockups and wireframes for app screens and web pages"
 msgstr "为应用屏幕和网页布局模型和线框"
@@ -6506,6 +6759,9 @@ msgstr "1到 3的限额只可在设置限期到期时才可去除或增加。"
 msgid "Link to and direct the Company's clients to the Programmer's Application."
 msgstr "链接并引导公司客户加入程序员的应用程序。"
 
+msgid "Linked to your computer"
+msgstr "与您的电脑连接"
+
 msgid "Links"
 msgstr "链接"
 
@@ -6524,14 +6780,11 @@ msgstr "莱特币是类似于比特币的加密货币, 但能达到更高的交�
 msgid "Litecoin vs US dollar"
 msgstr "莱特币兑美元"
 
-msgid "Live chat"
-msgstr "在线聊天"
-
 msgid "Living in Asunción"
 msgstr "在亚松森生活"
 
 msgid "Living in Cyberjaya"
-msgstr "住在Cyberjaya"
+msgstr "住在赛柏再也"
 
 msgid "Living in Dubai"
 msgstr "住在迪拜"
@@ -6544,6 +6797,12 @@ msgstr "住在Malta"
 
 msgid "Living on an island paradise has its perks. Labuan is one of those rare gems that has yet to undergo excessive commercialisation, thus retaining its small-town charm and tight-knit community vibe. Labuan welcomes tourists throughout the year as the island enjoys good weather all year round, with average daily temperature between 28 and 32 degrees Celsius."
 msgstr "在岛屿天堂居住有许多好处。Labuan 像是个罕见的宝石, 尚未被过度商业化, 因此还保留着其小镇的魅力和稠密的社区氛围。Labuan 一整年都适合旅游, 因为岛上的气候一年四季都是那么良好, 日平均气温在 28°C 至 32°C 之间。"
+
+msgid "Loading"
+msgstr "加载"
+
+msgid "Loading..."
+msgstr "正在加载..."
 
 msgid "Located 10 minutes away, Malaysia's intelligent garden city offers stunning greenery and exquisite structures."
 msgstr "马来西亚的智能花园城市仅10分钟路程, 提供令人惊叹的绿色环境和精致结构。"
@@ -6564,7 +6823,7 @@ msgid "Log out"
 msgstr "退出"
 
 msgid "Logging out of account-based websites at the end of the session"
-msgstr ""
+msgstr "在会话结束时退出基于账户的网站"
 
 msgid "Login History"
 msgstr "登录历史"
@@ -6595,6 +6854,9 @@ msgstr "正在查找桌面应用程序？"
 
 msgid "Looking for the %1 Desktop app?"
 msgstr "正在查找 %1 桌面应用程序？"
+
+msgid "Looks like you took too long"
+msgstr "似乎时间过长"
 
 msgid "Loss"
 msgstr "亏损"
@@ -6752,8 +7014,44 @@ msgstr "通过账户在世界任何地方买卖法定货币，并存款或取款
 msgid "Make another transfer"
 msgstr "进行另一次转账"
 
+msgid "Make sure all of the document is in the photo"
+msgstr "确保所有文档都在照片中"
+
+msgid "Make sure details are clear to read, with no blur or glare"
+msgstr "确保所有详细信息清晰易读，没有模糊字体或眩光现象"
+
+msgid "Make sure everything is clear"
+msgstr "确保一切都很清楚"
+
+msgid "Make sure full document is visible"
+msgstr "确保整个文件都清晰可见"
+
 msgid "Make sure that production and publication of content are technically accurate, well-written, and easily understandable"
 msgstr "确保内容的生产和发布在技术上准确，写得好并且易于理解"
+
+msgid "Make sure your card details are clear to read, with no blur or glare"
+msgstr "确保您的卡详细信息清晰易读，没有模糊字体或眩光现象"
+
+msgid "Make sure your device has a working camera"
+msgstr "确保您的设备具可正常使用的相机"
+
+msgid "Make sure your device's camera works"
+msgstr "确保您的设备相机可正常使用"
+
+msgid "Make sure your license details are clear to read, with no blur or glare"
+msgstr "确保您的许可证详细信息清晰易读，没有模糊字体或眩光现象"
+
+msgid "Make sure your passport details are clear to read, with no blur or glare"
+msgstr "确保您的护照详细信息清晰易读，没有模糊字体或眩光现象"
+
+msgid "Make sure your permit details are clear to read, with no blur or glare"
+msgstr "确保您的许可证详细信息清晰易读，没有模糊字体或眩光现象"
+
+msgid "Make sure your selfie clearly shows your face"
+msgstr "确保自拍照清楚显示您的脸部"
+
+msgid "Make sure§"
+msgstr "确保§"
 
 msgid "Make your trade"
 msgstr "执行交易"
@@ -6765,10 +7063,7 @@ msgid "Making decisions about who to employ and what salary and benefits to offe
 msgstr "决定人员聘请以及薪资和福利"
 
 msgid "Making sure of having effective and updated antivirus/antispyware software and firewall in place before using public WiFi"
-msgstr ""
-
-msgid "Malaysia"
-msgstr "马来西亚"
+msgstr "使用公共WiFi之前，请确保已安装了有效且更新的防病毒/反间谍软件和防火墙。"
 
 msgid "Malaysia's lower cost of living compared to most western countries means that you can enjoy a high quality of life. You'll also find easy access to world-class healthcare, plus several international schools, colleges, and universities that offer globally-recognised programmes."
 msgstr "与大多数西方国家相比, 马来西亚的生活水平较低, 这意味着您可以享受高质量的生活。您还可以轻松获得世界一流的医疗保健服务, 以及数所提供全球认可课程的国际学校、学院和大学。"
@@ -6946,12 +7241,6 @@ msgstr "未平仓头寸的最大赔付总额"
 
 msgid "Maximum daily turnover"
 msgstr "最大日成交量"
-
-msgid "Maximum deposit limit"
-msgstr "最大存款限额"
-
-msgid "Maximum deposit limit expiry"
-msgstr "最大存款限额到期日"
 
 msgid "Maximum multiplier of 1000."
 msgstr "最大乘数为1000。"
@@ -7139,14 +7428,23 @@ msgstr "具体来说，当公司和客户进行二元期权交易时（双方有
 msgid "More than 3 years of experience in technical content creation"
 msgstr "超过3年的技术内容创作经验"
 
-msgid "Most brokers typically charge a commission for each trade that you place. %1 currently charges no commission across all account types, except for cryptocurrencies."
-msgstr "大多数经纪商通常会对您执行的每笔交易收取佣金。除了加密货币以外，目前%1的所有账户类型都不收取佣金。"
+msgid "Most brokers typically charge a commission for each trade that you place. %1 currently charges no commission across all account types."
+msgstr "大多数经纪商通常会对您执行的每笔交易收取佣金。目前％1的所有账户类型都不收取佣金。"
 
 msgid "Mother of Cities"
 msgstr "城市之母"
 
 msgid "Mother's maiden name"
 msgstr "母亲婚前的姓氏"
+
+msgid "Move away from direct light"
+msgstr "远离直射光"
+
+msgid "Move away from direct light — no glare"
+msgstr "远离直射光 - 无眩光现象"
+
+msgid "Move funds in and out of your real account."
+msgstr "通过真实账户将资金移入和移出。"
 
 msgid "Mr"
 msgstr "先生"
@@ -7175,6 +7473,9 @@ msgstr "多个资产的流动性解决方案"
 msgid "Multilingual platforms"
 msgstr "多语言平台"
 
+msgid "Multiple faces found"
+msgstr "发现多个面孔"
+
 msgid "Multiple income opportunities"
 msgstr "多重收入机会"
 
@@ -7187,11 +7488,17 @@ msgstr "乘数下跌"
 msgid "Multiplier Up"
 msgstr "乘数上涨"
 
+msgid "Multipliers"
+msgstr "乘数期权"
+
 msgid "Must be a clear, colour photo"
 msgstr "必须是清晰的彩色照片"
 
 msgid "Must be a clear, colour photo or scanned image"
 msgstr "必须是清晰, 彩色照片或扫描图像"
+
+msgid "Must be under 10MB."
+msgstr "必须小于10MB。"
 
 msgid "My Players report: Displays a list of your clients according to their IDs and the date they signed up"
 msgstr "我的成员报告: 根据ID和注册日期显示您的客户列表"
@@ -7253,8 +7560,8 @@ msgstr "与新的支付系统提供商协商具竞争力的价格"
 msgid "Neither party shall, without the prior written consent of the other, disclose any details or information acquired directly or indirectly as a result of the relationship contemplated by this Agreement to any person or use the same for their own benefit, other than as contemplated in this Agreement."
 msgstr "未经另一方事先书面同意，任何一方均不得披露由于本协议涉及的关系而直接或间接获得的任何细节或信息给任何人或为了自身利益（除本协议以外）使用该细节或信息。"
 
-msgid "Neither the Affiliate, the Affiliate's direct relatives, nor any clients controlled by the Affiliate are eligible to become clients, and the Affiliate shall not be entitled to any share of net revenue or any other remuneration from the Company in relation to such relatives, friends, or controlled clients."
-msgstr "联盟会员、其直系亲属或其管辖下的任何客户都不得成为客户，联盟会员也无权享有任何与亲友或管辖下客户相关的净收入或公司其他酬金的份额。"
+msgid "Neither the Affiliate's direct relatives nor any clients controlled by the Affiliate are eligible to become clients, and the Affiliate will not be entitled to any share of net revenue or any other remuneration from the Company in relation to such relatives or controlled clients."
+msgstr "联盟会员的直系亲属或其管辖下的任何客户都不得成为客户，联盟会员也无权享有任何与所述亲属或管辖下客户相关的净收入或公司其他酬金的份额。"
 
 msgid "Neither the Company nor any of its directors, officers, managers, employees, or agents shall be liable for any loss, damage, or debt to the client arising directly or indirectly out of, or in connection with, this agreement. The client agrees to indemnify the Company and its directors, officers, managers, employees, or agents from, and against, any and all liabilities, losses, damages, costs, and expenses (including reasonable attorney's fees) incurred arising out of the client's failure to comply with any and all of their obligations set forth in this agreement and/or the Company's enforcement against the client of any and all of its rights under this agreement."
 msgstr "无论是公司或其任何董事、职员、经理、雇员或代理人都不须对本协议对客户直接或间接引起的或有关的任何损失、损害或债务负责。客户同意赔偿由于客户未能遵守其在本协议项下的任何和所有义务和/或公司向其执行在本协议项下的任何和所有权利，导致公司和其董事、职员、经理、雇员或代理人遭受或产生的任何和所有负债、损失、损害、费用和开支（包括合理的法律费用）。"
@@ -7364,11 +7671,14 @@ msgstr "无贿赂"
 msgid "No commission"
 msgstr "不收佣金"
 
-msgid "No commission (excluding cryptocurrencies)"
-msgstr "不收佣金费 (不包括加密货币)"
-
 msgid "No delay, neglect, or forbearance on the part of either party in enforcing any term or condition of this Agreement against the other party shall either be, or be deemed to be, a waiver or in any way prejudice any right of that party under this Agreement."
 msgstr "任何一方对另一方执行本协议条款和条件的延迟、疏忽或容忍，不能构成或被视为该方在本协议项下的权利被放弃或者受到影响。"
+
+msgid "No document detected"
+msgstr "未检测到文件"
+
+msgid "No face found"
+msgstr "未找到人脸"
 
 msgid "No fiduciary duty"
 msgstr "无诚信责任"
@@ -7425,13 +7735,13 @@ msgid "Not interested in trading"
 msgstr "对交易没兴趣"
 
 msgid "Not leaving devices unattended"
-msgstr ""
+msgstr "不要让设备无人看管"
 
 msgid "Not saving login credentials on a shared device"
-msgstr ""
+msgstr "不要将登录凭据保存在共享设备上"
 
 msgid "Not sending or receiving private information unless a secure webpage is being used (preferably, use a secure, encrypted Virtual Private Network (VPN)"
-msgstr ""
+msgstr "除非使用安全网页，否则不可发送或接收私人信息。最好使用安全的加密虚拟专用网络（VPN）"
 
 msgid "Not sure how margin works? Read our margin policy and learn how to calculate the margin for our CFDs."
 msgstr "不知道保证金是怎么一回事？请阅读我们的保证金政策，了解计算差价合约保证金的方法。"
@@ -7453,9 +7763,6 @@ msgstr "附注:"
 
 msgid "Note: %1 does not charge any transfer fees."
 msgstr "注意：%1不收取任何转账费用。"
-
-msgid "Note: A no deposit bonus worth 10 USD will be credited into your account within 24 hours after registration."
-msgstr "注: 注册后24小时内, 值10美元的无存款奖金将存入您的账户。"
 
 msgid "Note: For any enquiries regarding disabled or excluded accounts, please contact %1Customer Support%2."
 msgstr "注: 如有任何关于禁用或隔离账户的查询, 请与%1客服部%2联系。"
@@ -7568,11 +7875,17 @@ msgstr "一旦收到您的申请，我们的联盟经理会与您联系，以跟
 msgid "Once you click the 'Submit' button, the funds will be withdrawn from your account and transferred to your Client's account."
 msgstr "一旦您点击“提交”按钮，资金将从您的账户转至客户的账户。"
 
+msgid "Once you've finished we'll take you to the next step"
+msgstr "完成后，我们将带您进入下一步"
+
 msgid "One Zero"
 msgstr "One Zero"
 
 msgid "One of the first things most forex traders learn is how to read a currency pair. There are two parts to a currency pair"
 msgstr "大多数外汇交易者学习的第一件事就是如何阅读货币对。货币对有两部分"
+
+msgid "One or more of the client’s trades may be affected by a corporate action. In that case, the company may take one or more of the following measures:"
+msgstr "客户的一或多项交易可能会受到公司行为的影响。在这种情况下，公司可能会采取以下一或多项措施："
 
 msgid "One simple platform"
 msgstr "一个简单的平台"
@@ -7643,6 +7956,9 @@ msgstr "只允许字母、空格、连字符、句号和省略号。"
 msgid "Only one account is allowed per person. No withdrawals and/or refunds may be collected on accounts opened in false names or on multiple accounts opened by the same person."
 msgstr "每人只能开立一个账户。使用假名开立账户或属于同一客户的多个账户不能提取款项和/或退款。"
 
+msgid "Only your face can be in the selfie"
+msgstr "自拍照只能拍您的脸"
+
 msgid "Oops... Page Not Available"
 msgstr "抱歉！找不到页面"
 
@@ -7681,6 +7997,15 @@ msgstr "订立合约"
 
 msgid "Open positions"
 msgstr "空缺"
+
+msgid "Open the link and complete the tasks"
+msgstr "打开链接并完成任务"
+
+msgid "Open the link on your mobile"
+msgstr "用手机打开链接"
+
+msgid "Open your new bank account"
+msgstr "开立新的银行账户"
 
 msgid "Open-Source Projects"
 msgstr "开源项目"
@@ -7922,6 +8247,9 @@ msgstr "对人际、文化、管理和软件开发充满热忱？欢迎了解我
 msgid "Passport"
 msgstr "护照"
 
+msgid "Passport photo page"
+msgstr "含照片的护照页面"
+
 msgid "Password Reset"
 msgstr "重设密码"
 
@@ -8077,6 +8405,12 @@ msgstr "2017个人财富奖"
 
 msgid "Personal details"
 msgstr "个人资料"
+
+msgid "Photo of your document"
+msgstr "文件的相片"
+
+msgid "Photo of your face"
+msgstr "您脸部的照片"
 
 msgid "Pillar 3 Disclosures"
 msgstr "第3支柱资料披露"
@@ -8351,11 +8685,17 @@ msgstr "请注意，我们的掉期率也取决于您的持仓时间和天数︰
 msgid "Please tell us why you are closing your account (please select one):"
 msgstr "请告诉我们您关闭账户的原因（请选择一个）："
 
+msgid "Please try again"
+msgstr "请重试"
+
 msgid "Please update your %1 to continue."
 msgstr "请更新您的%1以继续操作。"
 
 msgid "Please wait for confirmation. Our customer support team will get back to you regarding your account status via email within four hours."
 msgstr "请等待确认。我们的客服团队将于四小时内将账户状态以电子邮件方式通知您。"
+
+msgid "Point your phone’s camera at the QR code"
+msgstr "将手机的相机对准 QR 码"
 
 msgid "Portfolio"
 msgstr "投资组合"
@@ -8687,6 +9027,9 @@ msgstr "向公司提供代理获悉的可能会对公司及其名誉造成损害
 msgid "Provide the customer support agent with the four-digit verification code below for confirmation."
 msgstr "向客服代理提供以下四位数验证代码进行确认。"
 
+msgid "Provide the whole document page for best results"
+msgstr "提供完整的文档页面以获得最佳结果"
+
 msgid "Provision of service"
 msgstr "服务条款"
 
@@ -8746,6 +9089,9 @@ msgstr "2018年第三季"
 
 msgid "Q3 2019"
 msgstr "2019年第三季"
+
+msgid "Q3 2020"
+msgstr "2020年第三季"
 
 msgid "Q4 2018"
 msgstr "2018年第四季"
@@ -8843,8 +9189,8 @@ msgstr "开立真实资金账户"
 msgid "Real Synthetic"
 msgstr "真实综合"
 
-msgid "Real accounts will be archived after %1 days of inactivity. To re-activate a real account, contact binary.com help desk at %2support@binary.com%3"
-msgstr "如果连续%1天没有活动，真实账户将被封闭。请通过%2support@binary.com%3与binary.com客服部联系，以重启真实账户"
+msgid "Real accounts will be archived after %1 days of inactivity. The client can request for the reactivation of a real account via %2live chat%3."
+msgstr "如果连续%1天没有活动，真实账户将被封闭。客户可通过%2实时聊天%3请求重启真实账户."
 
 msgid "Real-Money Account"
 msgstr "真实资金账户"
@@ -8897,11 +9243,20 @@ msgstr "认识到金融市场的复杂性，我们公平及详细地描述了我
 msgid "Recommend alternatives to redundant or obsolete systems"
 msgstr "推荐冗余或过时系统的替代品"
 
+msgid "Recover camera access to continue face verification"
+msgstr "恢复相机访问权限以继续面部验证"
+
+msgid "Recovery"
+msgstr "恢复"
+
 msgid "Recruit, train, and nurture affiliates and IBs in countries where Deriv Group is active, leveraging your direct knowledge and experience of the local market"
 msgstr "利用您在本地市场的直接知识和经验，负责对 Deriv 集团活跃的国家招聘、培训和培养联盟会员和推介经纪(IB)"
 
 msgid "Recruitment Process"
 msgstr "招聘流程"
+
+msgid "Redo"
+msgstr "恢复"
 
 msgid "Ref."
 msgstr "参考"
@@ -8926,6 +9281,15 @@ msgstr "推介工具"
 
 msgid "Refine and polish engineer-generated documents and open source projects to imbue them with clarity and consistency"
 msgstr "修整和优化工程师创建的文档和开源项目，以使其清晰，一致"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Refresh this page to restart the identity verification process"
+msgstr "刷新此页面以重启身份验证过程"
+
+msgid "Refund policy"
+msgstr "退款政策"
 
 msgid "Refuse to pay any Commission to the Introducing Broker engaged in the Malicious Activity"
 msgstr "拒绝向涉及恶意活动的推介经纪支付任何佣金"
@@ -8961,7 +9325,7 @@ msgid "Regent Markets receives funding to provide on-line financial trading serv
 msgstr "Regent Markets 获得提供网上金融交易服务的投资资金"
 
 msgid "Regent Markets sets up a programming centre in Cyberjaya, Malaysia"
-msgstr "Regent Markets 在马来西亚 Cyberjaya 设立了一个编程中心"
+msgstr "Regent Markets 在马来西亚赛柏再也设立了一个编程中心"
 
 msgid "Regent Pacific Group Ltd., the Hong Kong-listed founding shareholder of %1, %2disposes of its stake%3 at a valuation of US$ 50.5 million."
 msgstr "%1，%2在香港上市的创始股东 Regent Pacific Group Ltd. 将其股份%3抛售 ，价值为5050万美元。"
@@ -8998,6 +9362,12 @@ msgstr "今日剩余的 MT5 资金转账：%1"
 
 msgid "Remaining Time"
 msgstr "剩余时间"
+
+msgid "Remember to press stop when you're done. <fallback>Redo video actions</fallback>"
+msgstr "完成后，请记得要按停止。<fallback>恢复视频操作</fallback>"
+
+msgid "Remove your glasses, if necessary"
+msgstr "必要时摘下眼镜"
 
 msgid "Replication,"
 msgstr "复制"
@@ -9044,6 +9414,9 @@ msgstr "研究和评估区块链技术和解决方法, 以确定用例和实施�
 msgid "Research new payment systems that are available in the market"
 msgstr "研究市场可用的新支付系统"
 
+msgid "Resend link"
+msgstr "重新发送链接"
+
 msgid "Reset Barrier"
 msgstr "重设障碍"
 
@@ -9065,11 +9438,23 @@ msgstr "重置看跌"
 msgid "Reset Time"
 msgstr "重设时间"
 
+msgid "Reset my virtual balance"
+msgstr "重设虚拟余额"
+
 msgid "Reset password"
 msgstr "重设密码"
 
+msgid "Reset the balance of your virtual account to %1 anytime."
+msgstr "随时将虚拟账户余额重设为 %1 。"
+
 msgid "Reset to original settings"
 msgstr "重设为原始设置"
+
+msgid "Reset your virtual balance"
+msgstr "重设虚拟余额"
+
+msgid "Residence permit"
+msgstr "居留许可证"
 
 msgid "Residents of countries that have been identified by the FATF as having strategic deficiencies shall be restricted from opening an account with Deriv Investments (Europe) Limited."
 msgstr "被FATF认定具有策略缺陷的国家的居民, 须受限制, 不得在Deriv Investments (欧洲) 有限公司开立账户。"
@@ -9097,6 +9482,18 @@ msgstr "负责任交易"
 
 msgid "Rest assured that your information will only be used for CRS/FATCA reporting purposes and will be kept safe."
 msgstr "请放心, 您的信息将只用于 CRS/FATCA 报告, 并将给予安全保障。"
+
+msgid "Restart process on a different device"
+msgstr "用其他设备重启进程"
+
+msgid "Restart the process on the latest version of Google Chrome"
+msgstr "用最新版本的Google Chrome重启该过程"
+
+msgid "Restart the process on the latest version of Safari"
+msgstr "用最新版本的 Safari 重启该过程"
+
+msgid "Restrict the client’s account to prevent the client from closing any affected trades until the corporate action is passed"
+msgstr "限制客户的账户，以防止客户在公司行为通过之前停止任何受影响的交易"
 
 msgid "Restrictions"
 msgstr "限制"
@@ -9248,8 +9645,17 @@ msgstr "储蓄和继承"
 msgid "Scalable"
 msgstr "可缩放"
 
+msgid "Scan QR code"
+msgstr "扫描 QR 码"
+
 msgid "Scan the QR code below with your authentication app. We recommend %1 or %2. Please note that %3 is not supported."
 msgstr "用您的身份验证应用程序扫描以下 QR 代码。建议使用 %1 或 %2。请注意,  %3不受支持。"
+
+msgid "Scan the QR code with your phone"
+msgstr "用手机扫描QR码"
+
+msgid "Scans and photocopies are not accepted"
+msgstr "不接受扫描件和影印件"
 
 msgid "Schedule and coordinate interviews with candidates"
 msgstr "安排日程和协调面试候选人"
@@ -9271,6 +9677,9 @@ msgstr "筛选和批准网站内容和市场营销活动"
 
 msgid "Scrutinise clients' user behaviour on our trading platform"
 msgstr "透过我们的交易平台查看客户的用户行为"
+
+msgid "Search for country"
+msgstr "搜索国家"
 
 msgid "Search..."
 msgstr "搜索..."
@@ -9326,11 +9735,20 @@ msgstr "选择资产"
 msgid "Select Trade Type"
 msgstr "选择交易类型"
 
+msgid "Select a %{country} document"
+msgstr "选择 %{country} 文件"
+
+msgid "Select country"
+msgstr "选择国家"
+
 msgid "Select currency"
 msgstr "选择货币"
 
 msgid "Select date"
 msgstr "选择日期"
+
+msgid "Select issuing country"
+msgstr "选择发件国家"
 
 msgid "Select market:"
 msgstr "选择市场："
@@ -9359,14 +9777,20 @@ msgstr "自我禁止"
 msgid "Self-exclusion limits"
 msgstr "自我禁止限额"
 
-msgid "Self-exclusion on this website only applies to your %1 account and does not include other companies or websites."
-msgstr "此网站上的自我禁止功能仅适用于您的 %1账户, 不包括其他公司或网站。"
+msgid "Self-exclusion on this website is applicable to your account only as accessed on %1 or deriv.com and does not apply to any other website."
+msgstr "本网站上的自我禁止仅适用于您通过％1或deriv.com访问的账户，不适用于任何其他网站。"
 
 msgid "Self-motivation and flexibility in task rotations"
 msgstr "任务轮换中的自我激励和灵活性"
 
+msgid "Selfie"
+msgstr "自拍"
+
 msgid "Selfie holding proof of identity (front)"
 msgstr "持有身份证明 (前页) 的自拍照片"
+
+msgid "Selfie uploaded"
+msgstr "自拍照已上传"
 
 msgid "Sell"
 msgstr "卖出"
@@ -9386,11 +9810,23 @@ msgstr "卖出期权"
 msgid "Sell your long-term contracts before expiry to protect any profits you may have made or to minimise your losses."
 msgstr "长期合约到期前售出交易，以保护您的盈利或将亏损降至最低。"
 
+msgid "Send a secure link to your phone"
+msgstr "发送安全链接到您的手机"
+
+msgid "Send link"
+msgstr "发送链接"
+
+msgid "Send this one-time link to your phone"
+msgstr "发送此一次性链接到您的手机"
+
 msgid "Send us your CV and cover letter. We'll compare your skills and experience with our requirements."
 msgstr "把简历和求职信寄给我们。我们会拿您的技能和经验与我们的要求相比较。"
 
 msgid "Send your funds to the payment agent. The deposited funds, less the agent's commission, will show up in your account."
 msgstr "将资金存入支付代理。存入资金减去代理佣金的金额将会显示在您的账户中。"
+
+msgid "Sending"
+msgstr "发送中"
 
 msgid "Sep"
 msgstr "九月"
@@ -9503,6 +9939,9 @@ msgstr "应以字母或数字开始，可包含连字符和下划线。"
 msgid "Should these expenses not be covered by funds in the Affiliate's account, the Company reserves the right to investigate alternative means for obtaining payment. For example, should the Affiliate's account have generated purchasing accounts, the Company will hold payment of commission for these accounts until such a time as the account for damages has been cleared."
 msgstr "如果联盟会员账户的资金不足以覆盖这些费用，公司有权考虑其他替代方法：如果联盟会员的账户产生了购买账户，公司将会截留此等账户的佣金款项，直至损害赔偿的账户结清。"
 
+msgid "Show all details — including the bottom 2 lines"
+msgstr "显示所有详细信息-包括最后2行"
+
 msgid "Show all historical transactions up to"
 msgstr "显示此日期前的所有历史记录"
 
@@ -9575,6 +10014,9 @@ msgstr "使用数据驱动技术解决复杂的业务问题。"
 msgid "Some of the things that cryptocurrencies have in common include:"
 msgstr "加密货币的一些共同点包括:"
 
+msgid "Something's gone wrong"
+msgstr "出现错误"
+
 msgid "Sorry,"
 msgstr "抱歉，"
 
@@ -9593,11 +10035,11 @@ msgstr "对不起，您的金融账户无法进行二元期权交易。"
 msgid "Sorry, deposits for this currency are currently disabled."
 msgstr "抱歉，此货币的存款目前被禁用。"
 
-msgid "Sorry, live chat is currently unavailable. Please email us at %1."
-msgstr "对不起, 实时聊天当前不可用。请发送电子邮件到 %1给我们。"
-
 msgid "Sorry, mobile version is not available yet."
 msgstr "对不起，手机版本还不可用。"
+
+msgid "Sorry, no mobile phone bills"
+msgstr "抱歉，不接受手机账单"
 
 msgid "Sorry, this feature is available to virtual accounts only."
 msgstr "对不起，此功能仅适用虚拟账户。"
@@ -9761,6 +10203,9 @@ msgstr "步阶指数"
 msgid "Step outdoors and soak up the sun on one of Labuan's pristine beaches. There's also wreck diving, island hopping, kayaking, and deep sea fishing to look forward to."
 msgstr "踏出户外, 在Labuan的原始海滩上享受日光浴。还有沉船潜水、跳岛游、划皮艇和深海捕鱼等活动在等着您。"
 
+msgid "Steps required to continue verification on your mobile"
+msgstr "手机继续验证所需的步骤"
+
 msgid "Sticpay is a global e-wallet service for money transfers and online payments. For more information, please visit %1."
 msgstr "Sticpay是用于汇款和在线支付的全球性电子钱包服务。欲了解详细信息, 请访问 %1。"
 
@@ -9854,14 +10299,41 @@ msgstr "提交"
 msgid "Submit a report on HackerOne of any potential security issue you found, along with any suggestions you have to resolve the issue."
 msgstr "如果发现任何潜在安全问题，请在HackerOne提交报表，并附上解决问题的建议。"
 
+msgid "Submit document"
+msgstr "提交文件"
+
 msgid "Submit for review"
 msgstr "提交以供审阅"
+
+msgid "Submit identity card (back)"
+msgstr "提交身份证（背面）"
+
+msgid "Submit identity card (front)"
+msgstr "提交身份证（正面）"
+
+msgid "Submit license (back)"
+msgstr "提交执照 （背面）"
+
+msgid "Submit license (front)"
+msgstr "提交执照 （正面）"
 
 msgid "Submit one of the documents below"
 msgstr "提交下列文件之一"
 
+msgid "Submit passport photo page"
+msgstr "提交含照片的护照页面"
+
+msgid "Submit residence permit (back)"
+msgstr "提交居留许可证 （背面）"
+
+msgid "Submit residence permit (front)"
+msgstr "提交居留许可证 （正面）"
+
 msgid "Submit the document below"
 msgstr "提交下列文件"
+
+msgid "Submit verification"
+msgstr "提交验证"
 
 msgid "Submit your CV and Cover Letter"
 msgstr "提交您的简历和求职信"
@@ -9932,6 +10404,9 @@ msgstr "受影响工具的交易被暂停"
 msgid "Suspending the client's MT5 Real Account and refusing to execute any Orders to enter into further transactions with the client"
 msgstr "客户的MT5真实账户被暂停，并拒绝执行任何订单以与客户继续交易"
 
+msgid "Swap scheme"
+msgstr "掉期方案"
+
 msgid "Swaps Long (per annum)"
 msgstr "多头掉期 (每年)"
 
@@ -9962,6 +10437,9 @@ msgstr "综合指数为您提供各种交易类型的专用访问权限，例如
 msgid "Synthetic indices"
 msgstr "综合指数"
 
+msgid "Synthetic indices AMPLIFIED"
+msgstr "放大型综合指数"
+
 msgid "Synthetic indices that mimic market volatility."
 msgstr "模拟市场波动性的综合指数。"
 
@@ -9983,6 +10461,36 @@ msgstr "表 4 - 每日价格信息"
 msgid "Table 6 - Likelihood of execution information"
 msgstr "表 6 - 执行信息的可能性"
 
+msgid "Take a photo"
+msgstr "拍照"
+
+msgid "Take a photo of the back of your card"
+msgstr "卡背面拍照"
+
+msgid "Take a photo of the back of your license"
+msgstr "许可证背面拍照"
+
+msgid "Take a photo of the front of your card"
+msgstr "卡正面拍照"
+
+msgid "Take a photo of the front of your license"
+msgstr "许可证正面拍照"
+
+msgid "Take a photo of your passport photo page"
+msgstr "为含照片的护照页面拍照"
+
+msgid "Take a photo using the <fallback>basic camera mode</fallback> instead"
+msgstr "改为使用<fallback>基本相机模式</fallback>拍照"
+
+msgid "Take a photo with your phone"
+msgstr "用手机拍照"
+
+msgid "Take a selfie"
+msgstr "自拍"
+
+msgid "Take a selfie showing your face"
+msgstr "拍张脸部自拍照"
+
 msgid "Take a short-term or long-term view with trade durations from 10 seconds to 365 days."
 msgstr "持短期或长期观点，进行从10秒到365天持续期的交易。"
 
@@ -9991,6 +10499,9 @@ msgstr "始终采取所有必要步骤，以确保其他方的机密信息不泄
 
 msgid "Take necessary measures to correct and enhance IT operations"
 msgstr "采取必要的措施进行纠正，并提高电脑操作效率"
+
+msgid "Take photo"
+msgstr "拍照"
 
 msgid "Taking the following measures, the Company is committed to making sure that the client's personal data and transactions are secure:"
 msgstr "公司采取以下措施，并致力于确保客户的个人数据和交易安全："
@@ -10036,9 +10547,6 @@ msgstr "Telegram Bot"
 
 msgid "Telephone"
 msgstr "电话"
-
-msgid "Telephone:"
-msgstr "电话："
 
 msgid "Term"
 msgstr "条款"
@@ -10102,6 +10610,9 @@ msgstr "Tether是基于区块链的加密货币, 其流通由同等数量的传�
 
 msgid "Th"
 msgstr "星期四"
+
+msgid "Thank you"
+msgstr "谢谢"
 
 msgid "Thank you for completing the Financial Assessment. You can now deposit funds and trade forex with real money on MetaTrader 5."
 msgstr "谢谢您完成财务评估。您现在可以存入资金并以真实资金在 MetaTrader 5交易外汇。"
@@ -10406,8 +10917,8 @@ msgstr "公司把客户资金存在独立的银行账户，与操作账户分开
 msgid "The Company is an independent legal entity and is not affiliated with the MT5 trading platform. MT5 is not owned, controlled, or operated by the Company. Therefore, the Company does not provide any warranties related to any MT5 product or service and has not reviewed or verified any performance results that may be presented and/or described on this website in relation to MT5."
 msgstr "公司为独立法人实体，与MT5交易平台无任何附属关系。MT5不归本公司所有、控制或经营。因此，公司不提供与任何MT5产品或服务相关的任何担保，也未对本网站可能提供和/或描述与MT5相关的任何功能结果进行审查或验证。"
 
-msgid "The Company is licensed to deal in derivatives on its own account. Client orders will be executed by the Company and the Company will always be the client's sole execution venue for all of the trades a client makes in binary options. This means that the Company will always act as the client's counterparty, wherein it takes the other side of the client's trade. The clients should be aware that they are exposed to higher risks as all Binary Options contracts are traded on over-the-counter (OTC) markets, as opposed to regulated exchanges. This section of the policy will outline how the Company intends to comply with its best execution obligations."
-msgstr "公司获得自行交易衍生品的许可。客户订单将由公司执行, 而公司将始终是客户执行所有二元期权交易的唯一地点。这意味着公司将始终充当客户的交易对手, 即作为客户进行交易的另一方。客户应该意识到本身面临极高的风险, 因为所有二元期权合约都是在场外交易 (OTC) 市场执行, 而不是受监管的交易所。本政策的这一部分将概述公司打算如何履行其最佳执行义务。"
+msgid "The Company is licensed to deal in derivatives on its own account. Client orders will be accepted only if the orders are within the client’s account limit. Client orders will be executed by the Company and the Company will always be the client's sole execution venue for all of the trades a client makes in binary options. This means that the Company will always act as the client's counterparty, wherein it takes the other side of the client's trade. The clients should be aware that they are exposed to higher risks as all Binary Options contracts are traded on over-the-counter (OTC) markets, as opposed to regulated exchanges. This section of the policy will outline how the Company intends to comply with its best execution obligations."
+msgstr "公司获得自行交易衍生品的许可。仅当订单在客户的账户限制内时，才会接受客户订单。客户订单将由公司执行, 而公司将始终是客户执行所有二元期权交易的唯一地点。这意味着公司将始终充当客户的交易对手, 即作为客户进行交易的另一方。客户应该意识到本身面临极高的风险, 因为所有二元期权合约都是在场外交易 (OTC) 市场执行, 而不是受监管的交易所。本政策的这一部分将概述公司打算如何履行其最佳执行义务。"
 
 msgid "The Company is not liable for loss or damage of any kind whatsoever arising as a result of information or prices published on or furnished through the %1 API, or any errors or omissions of the %1 API."
 msgstr "由%1 API所提供或发布的任何信息或价格所造成的任何类型的损失或损害，或其所造成的任何错误或遗漏，公司概不负责。"
@@ -10493,6 +11004,9 @@ msgstr "公司可以自行决定或根据现行法规的要求，执行适当的
 msgid "The Company may, however, withhold the client's withdrawal request from their MT5 Real Account to their %1 account, in whole or in part, in one or more of the following cases:"
 msgstr "但是，如果发生下列的一种或多种情况，公司可以将客户把资金从MT5真实账户转到其%1账户的提款请求全部或部分暂停："
 
+msgid "The Company offers a number of merchant solutions and payment service providers for making online payments. The client will be billed at the time of, or shortly after, making a transaction. The client agrees to pay for all trades that the client purchases via any of the available merchant solutions or payment service providers."
+msgstr "公司为在线支付提供许多商户解决方案和支付服务提供商。客户将在付款时或交易后不久支付费用。客户同意通过任何可用的商户解决方案或支付服务提供商为客户订购的所有交易支付费用。"
+
 msgid "The Company offers binary options through its online interactive platform."
 msgstr "公司通过其在线互动平台提供二元期权交易。"
 
@@ -10547,8 +11061,8 @@ msgstr "公司保留随时修改、补充或更换这些条款的权利。如有
 msgid "The Company reserves the right to refuse the Affiliate's referrals' application to open an account (or to close the Affiliate's account), as deemed necessary, to comply with any requirements that the Company may periodically establish and/or that may be required under applicable laws, rules, and regulations."
 msgstr "为遵守公司定期建立和/或适用法律、规则和条例的任何要求，公司保留在必要时拒绝联盟会员的推介人申请开立（或关闭）账户的权利。"
 
-msgid "The Company reserves the right to refuse the client's request to open an MT5 Real Account for any reason, and any MT5 Real Account may be closed at the Company's discretion at any time."
-msgstr "不论是什么原因，公司保留拒绝客户开立MT5真实账户请求， 并随时由公司自主决定关闭任何MT5真实账户的权利。"
+msgid "The Company reserves the right to refuse the client's request to open an MT5 Real Account for any reason, and any MT5 Real Account may be closed at the Company's discretion at any time upon 7-day notice."
+msgstr "不论是什么原因，公司保留拒绝客户开立MT5真实账户请求，并随时由公司自主决定在7 天之前预先发出通知后关闭任何MT5真实账户的权利。"
 
 msgid "The Company reserves the right to refuse to do business with, to discontinue to do business with, and to reverse the transactions of clients who engage in any trading activity"
 msgstr "如果客户从事任何的交易活动如下，公司保留拒绝与客户进行业务、停止业务运作以及撤销交易的权利"
@@ -10917,6 +11431,9 @@ msgstr "即使基于有限的信息，也能够做出理性的决定"
 msgid "The anti-money laundering processes have the following effects on clients:"
 msgstr "反洗钱程序对客户有以下影响："
 
+msgid "The applicable jurisdiction shall be one of the following:"
+msgstr "适用的管辖权应为以下其中之一："
+
 msgid "The applicant also has the right to restrict the further processing of their personal data."
 msgstr "申请人也有权限制公司进一步处理其个人数据。"
 
@@ -11023,7 +11540,7 @@ msgid "The client agrees that in any legal, arbitration, mediation, regulatory, 
 msgstr "客户同意接受客户或%1发起的所有法律、仲裁、调解、监管或管理或任何其他程序, 须以与客户的交易有关的公司记录构成证据。除法律及任何法院或审裁处或主管当局或政府当局的命令或要求或指示或指引以外, 客户不得因为该等纪录不是原件, 或以书面或由计算机或任何其他电子系统印制而反对接纳。客户不得依赖公司履行任何法院、审裁处或主管当局或政府当局所施加的任何信息披露或其它义务。"
 
 msgid "The client agrees that when using the Live Chat feature on the Company website and applications, all personal information that the client enters in the chat channel, including but not limited to the client's first name and email address, is processed by the Company and stored in the Company's databases."
-msgstr ""
+msgstr "客户同意，在使用公司网站和应用程序上的“实时聊天”功能时，客户在聊天频道中输入的所有个人信息（包括但不限于客户的名字和电子邮件地址）均由公司处理并存储在公司的数据库。"
 
 msgid "The client agrees to comply with the following when making payments to DIEL:"
 msgstr "客户同意在向DIEL付款时遵守以下规定:"
@@ -11088,8 +11605,8 @@ msgstr "还有考虑客户的网路连接可能会影响到交易执行后的显
 msgid "The client is asked to note that weekend quotes are ignored for the purpose of contract settlement. During weekends, the forex markets may occasionally generate prices; however, these prices are often artificial (traders sometimes take advantage of the illiquidity of the markets during weekends to push prices up or down). To avoid settling prices based on such artificial prices, it is Company's policy not to count weekend prices towards contract settlement values (except for Synthetic Indices, which are open during weekends)."
 msgstr "请客户注意，为进行合约结算，周末报价将忽略不计。周末，外汇交易市场也许会偶尔产生价格，但这些价格只是人为的（交易商有时会利用周末市场缺乏流动性而抬高或压低价格）。为了避免结算受人为价格影响，公司的%1策略是在合约结算时不计算周末报价（综合指数除外，因为这些指数周末也开放）。"
 
-msgid "The client is not resident in a restricted country such as Canada, Hong Kong, Israel, Jersey, Malaysia, Malta, Paraguay, the United Arab Emirates, the USA, or any other restricted country that has been identified by the FATF as having strategic deficiencies."
-msgstr "客户不是被FATF认定具有策略缺陷的国家和地区如加拿大、香港、以色列、泽西岛、马来西亚、马耳他、巴拉圭、阿拉伯联合酋长国、美国或任何其他受限制国家的居民。"
+msgid "The client is not resident in a restricted country such as Canada, Hong Kong, Israel, Jersey, Malaysia, Malta, Paraguay, Rwanda, the United Arab Emirates, the USA, or any other restricted country that has been identified by the FATF as having strategic deficiencies."
+msgstr "客户不是被FATF认定具有策略缺陷的国家和地区如加拿大、香港、以色列、泽西岛、马来西亚、马耳他、巴拉圭、卢旺达、阿拉伯联合酋长国、美国或任何其他受限制国家的居民。"
 
 msgid "The client is not trading in the actual Underlying Instrument, or the actual foreign currency; all Transactions are settled in cash only."
 msgstr "客户没交易真实的标的工具, 或真实的外币。所有交易仅以现金结算。"
@@ -11325,6 +11842,9 @@ msgstr "给每个客户提供的保护级别以及到期日取决于每个客户
 msgid "The leverage ratio refers to the number of times that the client's margin (the amount set aside from the client's account balance to open and maintain a transaction) can be \"leveraged\" to enter into a transaction. The denominator of the leverage ratio is always one. A 50:1 leverage is equivalent to a 2% margin requirement (1 divided by 50 = 2%). The leverage ratio that the Company/the client establishes will determine the amount of margin required. As leverage is inversely proportional to margin, as the leverage that the client sets for the client's account gets lower, the margin required to be set aside from the client's account balance (the client's margin requirement) gets higher."
 msgstr "杠杆比率指使用客户的保证金（为进行交易从客户的账户余额拨出并保留的金额） 作为\"杠杆\"进入交易的次数。杠杆比率的分母始终是一。50: 1 的杠杆比率相当于需要 2%保证金 (1 除以 50 = 2%)。公司/客户建立的杠杆比率将确定保证金的数额。杠杆比率与保证金成反比，客户的账户所设杠杆比率越低，从其账户余额拨出的保证金额就越高 （所需保证金）。"
 
+msgid "The link only works on mobile devices"
+msgstr "链接只能用于手机"
+
 msgid "The market conditions of the financial instruments that client orders are related to, which includes the need for timely execution, availability of price improvement, liquidity of the market, size of client order, and the potential impact on total consideration"
 msgstr "与客户的订单有关的金融工具市场条件，其中包括及时执行需求、价格优化的可行性、市场流动性、订单大小、以及对总数值的潜在影响"
 
@@ -11385,6 +11905,9 @@ msgstr "该专利意味着 Regent Markets 为公认的二元交易先驱。这�
 msgid "The payout is the amount paid to an options trader if their prediction is correct."
 msgstr "赔付金额即期权交易者因预测正确而获得的金额。"
 
+msgid "The photo should clearly show your document"
+msgstr "照片须清楚显示您的文件"
+
 msgid "The premier platform for trading binary options in the world's financial markets"
 msgstr "全世界金融市场二元期权交易的顶尖平台"
 
@@ -11431,7 +11954,7 @@ msgid "The reset time is %1"
 msgstr "重设时间为 %1"
 
 msgid "The responsibility for the security of the client's login credentials, any linked email address, and any personal device on which the client's account is accessible lies solely with the client. The Company shall not be held responsible if there is unauthorised use of the account when the Company is not at fault."
-msgstr ""
+msgstr "客户的登录凭证、任何链接的电子邮件地址以及可访问客户账户的任何个人设备的安全性责任完全由客户承担。如果发生非公司的过错导致的未经授权使用账户，公司将不承担任何责任。"
 
 msgid "The return is the money realized when the contract expires (see 'Payout')."
 msgstr "收益指当合约到期时实现的收益（参阅“赔付金额”）。"
@@ -11501,9 +12024,6 @@ msgstr "客户的订单执行所界定的时间范围或合同期限"
 
 msgid "The trading services described in this agreement are OTC. This means that one or more of the Underlying Instruments in which the client transacts with DIEL, though quoted on an exchange, are not traded on an exchange when transacted through the electronic trading platform as described in this agreement."
 msgstr "本协议所描述的交易服务为场外交易。这意味着，客户与DIEL进行交易的一个或多个标的工具，虽然由交易所报价，但通过本协议所述电子交易平台交易时却不是在交易所交易。"
-
-msgid "The transactions performed on this site and the relationship between clients and the Company are to be governed by, and construed in accordance with, the laws of the country of incorporation of the Company (the \"Jurisdiction\"). The client agrees that the Jurisdiction's courts will have sole jurisdiction to settle any disputes that may arise in relation thereto. For such purposes, the client irrevocably submits to the jurisdiction of the courts of the Jurisdiction in relation to any such dispute and agrees that any claim the client might have against the Company shall only be brought before the courts of the Jurisdiction. For further information on complaints and disputes, kindly refer to the Company's %1Complaints and disputes%2 section."
-msgstr "通过本网站完成的交易以及客户和本公司之间的关系由本公司注册所在国（即“管辖地”）的法律管辖和解释。对于可能出现的任何相关纠纷，客户认同管辖地法院有作出相应处置的专属管辖权。因此，客户不可撤销地服从管辖地法院对所有此类纠纷的司法管辖权，且客户同意，对本公司的任何索赔只能在管辖地法院提起。详细信息请参阅本公司的%1投诉和纠纷%2部分。"
 
 msgid "The two passwords that you entered do not match."
 msgstr "两个输入的密码不一致。"
@@ -11594,6 +12114,9 @@ msgstr "这些补充条款和条件于客户的账户开立之日生效，之后
 
 msgid "These ST&Cs form part of, and need to be read together with, the general terms and conditions relating to the use of %1."
 msgstr "这些补充条款和条件是%1 一般使用条款和条件的组成部分，必须一并阅读。"
+
+msgid "These are the documents most likely to show your current home address"
+msgstr "这些是最有可能显示您当前家庭住址的文件"
 
 msgid "These are trades where the trader predicts if a market will finish higher or lower than a specified price target."
 msgstr "交易者预测市场收盘价将高于或低于设定目标价的交易。"
@@ -11880,6 +12403,9 @@ msgstr "时代变迁。我们增加了赔付金额，使客户可以从盈利交
 msgid "Tips"
 msgstr "提示"
 
+msgid "Tips to take a good selfie"
+msgstr "好的自拍技巧"
+
 msgid "Tips:"
 msgstr "提示:"
 
@@ -11937,6 +12463,9 @@ msgstr "要了解关于保证金要求的更多信息，请阅读我们的%1保�
 msgid "To maintain Open Positions, the client is required to have sufficient Account Equity to cover any Margin Requirement. If a client's Margin Level is less than the Margin Level set for their account, the client has entered into a Margin Call and is required to increase their Margin Level above the account's specified level in order to avoid a Stop Out to occur. The client may not be able to place an Order to open a transaction unless there is sufficient Account Equity to cover the Total Margin."
 msgstr "要继续保留持仓头寸，客户需要有足够支付任何保证金要求的账户净值。如果客户的保证金额低于其账户指定的保证金额，则客户已触发追加保证金通知，必须将其保证金额提高到账户指定的金额以上，以避免发生止损。除非有足够支付总保证金的账户净值，否则客户无法下订单交易。"
 
+msgid "To open a bank account, we will need to verify your identity."
+msgstr "要开设银行账户，必须先验证您的身份。"
+
 msgid "To perform this action, please set the %1currency%2 of your account."
 msgstr "要执行此操作, 请设置账户的%1货币%2。"
 
@@ -11955,8 +12484,8 @@ msgstr "如要重新设置密码，在下面字段输入您注册的电子邮件
 msgid "To reset your trading or investor password, please click the button below:"
 msgstr "要重置您的交易或投资者密码, 请单击下面的按钮:"
 
-msgid "To self-exclude from all online gambling companies licensed in Great Britain, go to %1."
-msgstr "要自我禁止在所有英国注册的在线博彩公司交易, 请转到 %1。"
+msgid "To smoothly verify you, we need a better photo"
+msgstr "为了顺利验证，我们需要更好的照片"
 
 msgid "To which it, at the time of execution of this Agreement was, or subsequently has become, in the public domain through no fault of the parties"
 msgstr "执行本协议时，由于各方没有过错，该协议已经或随后已进入公共领域"
@@ -11981,6 +12510,9 @@ msgstr "令牌名称"
 
 msgid "Too addictive"
 msgstr "过于上瘾"
+
+msgid "Too many failed attempts"
+msgstr "失败尝试次数太多"
 
 msgid "Top Up Virtual Account"
 msgstr "虚拟账户充值"
@@ -12129,6 +12661,9 @@ msgstr "在我们的MT5平台使用杠杆和可变点差交易流行的加密货
 msgid "Trade popular major and minor currency pairs, plus Smart FX indices – weighted indices that measure the value of a currency against a basket of major currencies."
 msgstr "交易流行的主要和次要货币对，加上智能外汇指数 - 衡量与一篮子主要货币相兑的指定货币价值的加权指数。"
 
+msgid "Trade server:"
+msgstr "交易服务器:"
+
 msgid "Trade type"
 msgstr "交易类型"
 
@@ -12182,9 +12717,6 @@ msgstr "交易时间"
 
 msgid "Trading and Withdrawal Limits"
 msgstr "交易和取款限额"
-
-msgid "Trading and deposits have been disabled on your account. Kindly %1contact customer support%2 for assistance."
-msgstr "您的账户已被禁交易和存款。请 %1联系客服部%2寻求帮助。"
 
 msgid "Trading and withdrawals have been disabled on your account. Kindly %1contact customer support%2 for assistance."
 msgstr "您的账户已被禁交易和提款。请 %1联系客服部%2寻求帮助。"
@@ -12336,6 +12868,9 @@ msgstr "试试 Binary Bot"
 msgid "Try Deriv.com now"
 msgstr "立刻试用 Deriv.com"
 
+msgid "Try Multipliers on DTrader"
+msgstr "通过 DTrader 试试乘数交易"
+
 msgid "Try SmartCharts"
 msgstr "体验 SmartCharts"
 
@@ -12345,11 +12880,20 @@ msgstr "体验 TradingView"
 msgid "Try WebTrader"
 msgstr "体验WebTrader"
 
+msgid "Try now"
+msgstr "立即体验"
+
 msgid "Try our %1Synthetic Indices%2."
 msgstr "请试试%1综合指数%2。"
 
 msgid "Try our other markets."
 msgstr "请尝试我们其他的市场。"
+
+msgid "Try using a JPG or PNG file"
+msgstr "尝试使用 JPG 或 PNG 文件"
+
+msgid "Try using another file type."
+msgstr "尝试使用其他文件类型。"
 
 msgid "Tu"
 msgstr "星期二"
@@ -12389,9 +12933,6 @@ msgstr "交易类型"
 
 msgid "UI/UX Designer"
 msgstr "UI/UX 设计员"
-
-msgid "UK and Manx residents who wish to trade gambling products will have their accounts opened with Deriv (MX) Ltd."
-msgstr "想要进行产品博彩交易的欧盟和马恩岛居民将在 Deriv (MX) Ltd 开设账户。"
 
 msgid "US Patents"
 msgstr "美国专利"
@@ -12459,6 +13000,9 @@ msgstr "超快速交易服务"
 msgid "Unable to read file %1"
 msgstr "无法读取文件 %1"
 
+msgid "Unavailable"
+msgstr "不可用"
+
 msgid "Under no circumstances shall the Company or its directors or employees be liable under this Agreement to the Programmer or any third party for any indirect, special, incidental, punitive, or consequential loss or damages or any other similar damages under any theory of liability (whether in contract, tort, strict liability, or any other theory), which are directly or indirectly attributable to the use of, or the inability to use, the %1 API, or any content contained thereon, even if the Company has been informed of the possibility thereof."
 msgstr "在任何情况下，根据本协议，公司或其董事或雇员一概不对程序员或任何第三方直接或间接由于使用或不能使用%1 API或其任何内容的任何间接、特定、附带、惩罚性或后果性损失或损害或任何理论下的任何其他类似损害（无论是在合同、侵权行为、严格赔偿责任或任何其他理论）承担赔偿责任，即使已预先通知公司事件发生的可能性。"
 
@@ -12513,6 +13057,9 @@ msgstr "未知 OS"
 msgid "Unless otherwise advised, DIEL shall treat a client as a retail client. Clients may also request, by writing to DIEL, to change the category in which they have been classified, and this may have an effect on the level of protection afforded to them. DIEL will assess the client's knowledge and experience versus the appropriateness of the requested service/investment product."
 msgstr "除非另行通知，DIEL将视客户为零售客户。客户也可通过书面形式要求DIEL更改类别，但这么做可能会影响到DIEL给客户的保护级别。DIEL将对客户的知识和经验与所请求的服务/投资产品的适当性作出评估。"
 
+msgid "Unsupported browser"
+msgstr "不受支持的浏览器"
+
 msgid "Up to %1"
 msgstr "高达%1"
 
@@ -12548,6 +13095,39 @@ msgstr "升级为 %1 %2 博彩账户%3。"
 
 msgid "Upgrade your account and start trading using real money."
 msgstr "升级账户, 并使用真实资金开始交易。"
+
+msgid "Upload"
+msgstr "上传"
+
+msgid "Upload a selfie from your computer"
+msgstr "从电脑上传自拍照片"
+
+msgid "Upload anyway"
+msgstr "仍要上传"
+
+msgid "Upload back of card from your computer"
+msgstr "从电脑上传卡的背面"
+
+msgid "Upload back of license from your computer"
+msgstr "从电脑上传执照的背面"
+
+msgid "Upload front of card from your computer"
+msgstr "从电脑上传卡的正面"
+
+msgid "Upload front of license from your computer"
+msgstr "从电脑上传执照的正面"
+
+msgid "Upload passport photo page"
+msgstr "上传含照片的护照页面"
+
+msgid "Upload passport photo page from your computer"
+msgstr "从电脑上传含照片的护照页面"
+
+msgid "Upload photo"
+msgstr "上传照片"
+
+msgid "Uploads successful"
+msgstr "上传成功"
 
 msgid "Upon closing a trade, the realised profit (or loss), which is represented by the difference between the opening level and closing level of the trade multiplied by the number of lots (volume), becomes due and payable by the Company to the client (or due and payable by the client to the Company in cases of realised loss)."
 msgstr "平仓交易时实现的利润（或损失），以交易开盘和收盘价差距乘以手数（交易次数）表示，为公司欠客户的应付金额（或如实现亏损则是客户欠公司的应付金额）。"
@@ -12616,7 +13196,7 @@ msgid "Use, perform, and display the Programmer's Application and its content fo
 msgstr "使用、执行，并显示程序员的应用程序及其内容作为营销、展示用途，并将程序员的应用程序提供给公司客户使用。"
 
 msgid "Using browser tools to delete files and cookies and clearing browsing history"
-msgstr ""
+msgstr "使用浏览器工具删除文件和cookie并清除浏览历史记录"
 
 msgid "Using our website, customers can trade currencies, stock indices, commodities, and synthetic indices 24/7. We have the most flexible pricing and the most comprehensive suite of products available."
 msgstr "客户可使用本网站进行全天候的货币、股票指数、大宗商品和综合指数交易。我们有最灵活的价格和最齐全的产品。"
@@ -12648,8 +13228,14 @@ msgstr "验证码"
 msgid "Verification code is wrong. Please use the link sent to your email."
 msgstr "验证码错误。请使用以下链接发送到您的电子邮件。"
 
+msgid "Verification complete"
+msgstr "验证完成"
+
 msgid "Verification required"
 msgstr "需要验证"
+
+msgid "Verify Identity"
+msgstr "身份验证"
 
 msgid "Verify Reset Password"
 msgstr "重置密码验证"
@@ -12669,8 +13255,8 @@ msgstr "MT5新密码验证"
 msgid "Verify new password"
 msgstr "验证新密码"
 
-msgid "Version 48. Last modified 2019-05-10."
-msgstr "版本48。最后修改时间2019-05-10。"
+msgid "Version 49. Last modified 23-11-2020."
+msgstr "版本49。最后修改时间 23-11-2020。"
 
 msgid "Video Room Facility"
 msgstr "视频室设施"
@@ -12686,6 +13272,9 @@ msgstr "查看支付方式"
 
 msgid "View chart"
 msgstr "查看图表"
+
+msgid "View from camera"
+msgstr "从相机观看"
 
 msgid "View guide"
 msgstr "查看指南"
@@ -12828,6 +13417,9 @@ msgstr "我们认为应该始终做正确的事。包括以诚实和透明的方
 msgid "We can't validate your personal details because there is some information missing."
 msgstr "因缺少一些信息，我们无法验证您的个人资料。"
 
+msgid "We cannot verify you without using your camera"
+msgstr "不使用相机，我们无法验证您的身份"
+
 msgid "We delete an order with the largest margin reserved."
 msgstr "我们删除含最大储备保证金的订单。"
 
@@ -12927,6 +13519,9 @@ msgstr "我们不允许将我们的产品或支付工具用于洗钱、恐怖分
 msgid "We'd love to hear what you think."
 msgstr "我们很想听听您的意见。"
 
+msgid "We'll compare it with your document"
+msgstr "我们将把它与您的文档比较"
+
 msgid "We're almost there"
 msgstr "快全都准备就绪了"
 
@@ -12942,6 +13537,9 @@ msgstr "我们希望改进产品和服务, 希望进一步了解您的需求。�
 msgid "We're not obliged to conduct an appropriateness test, nor provide you with any risk warnings"
 msgstr "我们没有义务进行适当性测试, 也没有义务向您提供任何风险警告"
 
+msgid "We're now ready to verify your identity"
+msgstr "我们现在准备验证您的身份"
+
 msgid "We're projected to register over 377 million transactions this year, bringing the total number of contracts that were bought and sold on our platform since inception to over 1.42 billion."
 msgstr "我们预计今年将有超过3亿7700万笔交易, 成立以来我们平台的购入和售出合约总数超过14亿2000万。"
 
@@ -12950,6 +13548,9 @@ msgstr "获得这个奖项，我们真的很自豪。我们不懈努力，提供
 
 msgid "We've grown in size over the years - both in terms of manpower and offices. We currently have over %1 employees across four offices in Malaysia, Malta, Paraguay and Dubai. Further growth in headcount is expected this year to cater to the increased demand in our products and services."
 msgstr "多年来，无论在人力和办公室方面， 我们的规模不断扩大。目前在马来西亚、马耳他、巴拉圭和迪拜有四个办事处和%1多名员工。预计今年的员工人数将进一步增长, 以满足我们产品和服务需求的增加。"
+
+msgid "We've sent a secure link to %{number}"
+msgstr "已发送安全链接至%{number}"
 
 msgid "Web and software developer"
 msgstr "网络和软件开发员"
@@ -12978,14 +13579,8 @@ msgstr "网站:"
 msgid "Wednesday"
 msgstr "星期三"
 
-msgid "Weekdays:"
-msgstr "交易日:"
-
 msgid "Weekend quotes"
 msgstr "周末报价"
-
-msgid "Weekend:"
-msgstr "周末："
 
 msgid "Welcome to Binary.com"
 msgstr "欢迎来到 Binary.com"
@@ -13067,6 +13662,9 @@ msgstr "使用A-book模式执行客户订单时，公司将客户的交易导引
 
 msgid "When it comes to food, you'll be spoilt for choice. Cuisine from every part of the world can be found in Dubai, but that doesn't mean that local flavours should be ignored: chebab (saffron pancakes), khameer (puffed flatbreads), harees (savoury porridge), tender roasted meats, and pistachio-stuffed sweets are some of the local dishes that will excite your taste buds. There are also numerous economical options in the form of chain restaurants that cater to a variety of tastes."
 msgstr "谈到食物，您将因为种类太多而无从选择。来自世界各地的美食都可以在迪拜找到，但这并不意味着您应该忽略当地的风味：一些当地的菜肴包括烧烤（藏红花煎饼）、khameer（膨化扁面包）、harees（咸味粥）、嫩烤肉和开心果甜品等，随时能激发您的味蕾。还有许多可以满足各种口味的连锁餐厅提供比较经济的选择。"
+
+msgid "When prompted, you must enable camera access to continue"
+msgstr "出现提示时，须启用相机访问权限以继续操作"
 
 msgid "When the Affiliate's referred clients open an account with any member of the Deriv group, the Company assumes ownership of the database of names and contact information and any other data of the Affiliate's referred clients."
 msgstr "联盟会员的推荐客户在 Deriv 集团任何成员公司开账户时，公司承担此联盟会员的推荐客户名称和联系信息数据库以及任何其他数据的所有权。"
@@ -13221,6 +13819,9 @@ msgstr "如公司查明任何与%1 代理账户或%1 客户账户存款或提款
 msgid "Where the Introducing Broker owns, or operates, a website and wishes to include Binary's services, the Introducing Broker shall"
 msgstr "如果推介经纪拥有或经营网站并希望将Binary的服务加进去，推介经纪应"
 
+msgid "Where the client makes any false or misleading representation to the Company breaching the clauses under Governing laws and jurisdiction"
+msgstr "客户违反公司法律和管辖范围内的条款，向公司做出任何虚假或误导性陈述"
+
 msgid "Where the client's obligations to the Company are due and payable, the Company shall cease to treat as client money the amount equal to the amount of such obligations."
 msgstr "如果客户对公司的债务到期应付，公司将把相等于此债务金额的客户资金视为客户支付债款。"
 
@@ -13234,7 +13835,7 @@ msgid "Where your experience, drive and talent can propel you in unknown directi
 msgstr "您的经验、动力和天赋可以推动你往未知的方向迈进，而且您可以自由地踏入新的领域。"
 
 msgid "Whether the client uses a shared device or the client's own device in a public place either offline or on public WiFi, doing so might put the information that the client enters or receives in danger of being captured. To protect data in such cases, it is the clients' responsibility to take the following precautions and educate themselves on other security measures they can take:"
-msgstr ""
+msgstr "不论客户是在脱机状态下还是透过公共WiFi在公共场所使用共享设备或客户自己的设备，这样做都可能使客户输入或接收的信息有被捕获的危险。为了在这种情况下保护数据，客户有责任采取以下预防措施，并对自己可以采取的其他安全措施进行教育："
 
 msgid "Which account is right for me?"
 msgstr "哪个账户适合我？"
@@ -13477,7 +14078,7 @@ msgid "You can %1open a cryptocurrency%2 account without closing your fiat curre
 msgstr "您可在无需关闭法定货币账户的情况下%1开立加密货币%2账户。"
 
 msgid "You can %1open a real account%2 without closing your demo account."
-msgstr "您可在无需关闭模拟账户的情况下%1开立真实账户%2。"
+msgstr "您可在无需关闭虚拟账户的情况下%1开立真实账户%2。"
 
 msgid "You can %1set a new currency%2 before you deposit for the first time or create an MT5 account."
 msgstr "首次存款或开立 MT5 账户之前, 您可以 %1设定新币种%2。"
@@ -13512,6 +14113,9 @@ msgstr "您已开立了MT5 账户，因此不能再更改币种。"
 msgid "You can no longer change the currency because you've made a first-time deposit."
 msgstr "您已存入第一笔资金，因此不能再更改币种。"
 
+msgid "You can now return to your computer to continue"
+msgstr "您现在可以返回电脑继续操作"
+
 msgid "You can open a fiat currency account without closing your cryptocurrency account."
 msgstr "您可在无需关闭加密货币账户的情况下开立法定货币账户。"
 
@@ -13523,9 +14127,6 @@ msgstr "您可设置限制您的账户和交易活动。前往%1自我禁止页�
 
 msgid "You can top up your demo account with an additional %1 if your balance is %2 or less."
 msgstr "如果您的余额为 %2 或更低, 您可以在模拟账户内添加 %1。"
-
-msgid "You can top up your virtual account with an additional %1 if your balance is %2 or less."
-msgstr "如果您的余额为 %2 或更低, 您可以在虚拟账户内添加 %1。"
 
 msgid "You can use an authorized payment agent to process deposits and withdrawals for payment methods or local currencies not supported by %1. It's easy to do."
 msgstr "对于 %1 不支持的支付方式或货币， 您可以授权给支付代理，轻松处理存款和取款。"
@@ -13707,6 +14308,9 @@ msgstr "如果市价并未以您选取的数字结束，您将赢得赔付额。
 msgid "You win the payout if the market price ends in the digit you have selected."
 msgstr "如果市价以您选取的数字结束，您将赢得赔付额。"
 
+msgid "You'll need to restart your verification on your computer"
+msgstr "需用电脑重启验证"
+
 msgid "You're buying the %1 and selling the %2."
 msgstr "你要买入%1，卖出%2."
 
@@ -13718,6 +14322,9 @@ msgstr "您正在使用虚拟账户。"
 
 msgid "You've carried out significant transactions on markets similar to the ones we offer, averaging 10 transactions per quarter for the previous four quarters"
 msgstr "您在与我们类似的市场进行了相当多的交易, 过去四季度里平均每季度进行了10笔交易"
+
+msgid "You've made no transactions of this type up to this date."
+msgstr "您至今为止没有进行过此类交易。"
 
 msgid "You've worked in the financial sector for at least one year in a role that requires knowledge of your intended transactions on our platform"
 msgstr "您在金融业界工作至少一年, 拥有在我们平台上交易的所需知识"
@@ -13756,9 +14363,6 @@ msgid "Your account has been verified successfully"
 msgstr "您的账户已通过验证"
 
 msgid "Your account has no Login/Logout activity."
-msgstr "您的账户无交易活动。"
-
-msgid "Your account has no trading activity."
 msgstr "您的账户无交易活动。"
 
 msgid "Your account is fully authenticated and your withdrawal limits have been lifted."
@@ -13800,11 +14404,17 @@ msgstr "您的更改已成功更新。"
 msgid "Your commission for the previous calendar month will be deposited into your account by the 15th of every month."
 msgstr "您上个月的佣金将于每月15日前准时存入您的账户。"
 
+msgid "Your computer may take a few seconds to update"
+msgstr "您的电脑更新可能需要数秒钟"
+
 msgid "Your demo account balance is currently %1 or less. You may top up your account with an additional %2."
 msgstr "您的模拟账户余额当前为 %1 或更低。您可以添加 %2补充账户资金。"
 
 msgid "Your document is being reviewed, please check back in 1-3 days"
 msgstr "您的文件正在审查中，请于1-3天后再查看"
+
+msgid "Your face is needed in the selfie"
+msgstr "自拍照片必须包括脸部"
 
 msgid "Your fiat account's currency is currently set to %1."
 msgstr "您的法定账户的币种当前设置为 %1。"
@@ -13814,6 +14424,12 @@ msgstr "您的法定账户的币种设置为 %1。"
 
 msgid "Your fund transfer is successful. Your new balances are:"
 msgstr "您已成功转账。最新余额是："
+
+msgid "Your link will expire in one hour"
+msgstr "您的链接将于一小时后失效"
+
+msgid "Your mobile link will expire in one hour"
+msgstr "您的手机链接将于一小时后失效"
 
 msgid "Your name, email address and contact number"
 msgstr "您的名字、 电子邮件和电话"
@@ -13893,9 +14509,6 @@ msgstr "您的交易参考号是"
 msgid "Your transaction reference number is %1"
 msgstr "您的交易参考号是 %1"
 
-msgid "Your virtual account balance is currently %1 or less. You may top up your account with an additional %2."
-msgstr "您的虚拟账户余额当前为 %1 或更低。您可以添加 %2补充账户资金。"
-
 msgid "Your web browser (%1) is out of date and may affect your trading experience. Proceed at your own risk. %2Update browser%3"
 msgstr "您的网络浏览器 (%1) 已过时，并可能会影响您的交易操作。继续操作须自行承担风险。%2更新浏览器%3"
 
@@ -13907,9 +14520,6 @@ msgstr "您的网址 （如有）"
 
 msgid "Your withdrawal limit is %1%2."
 msgstr "您的取款限额是 %1%2。"
-
-msgid "Your withdrawal will be processed in one business day (Monday to Friday 9:00 am–5:00 pm GMT+8) unless stated otherwise."
-msgstr "除非另有说明，您的取款将于一个工作天内处理完毕（周一到周五，早上九点到下午五点，GMT+8）。"
 
 msgid "You’ll be logged out automatically."
 msgstr "您将自动注销。"
@@ -13974,8 +14584,14 @@ msgstr "客户在参考相关工具包括市场订单、止损单、限价单等
 msgid "b. Download and install the MT5 trading platform through the link %1"
 msgstr "b. 通过链接 %1 下载并安装 MT5 交易平台"
 
+msgid "back"
+msgstr "返回"
+
 msgid "binary options, forex, forex trading, online trading, financial trading, binary trading, index trading, trading stock indices, forex trades, trading commodities, binary options strategy, binary broker, binary bet, binary options trading platform, binary strategy, finance, investment, trading"
 msgstr "二元期权、外汇、外汇交易、在线交易、金融交易、二元交易、指数交易、交易股票指数、外汇交易、交易大宗商品、二元期权策略、二元经纪、二元投注、二元期权交易平台、二元策略、金融、投资、交易"
+
+msgid "close"
+msgstr "关闭"
 
 msgid "day"
 msgstr "天"
@@ -13985,6 +14601,9 @@ msgstr "天"
 
 msgid "details"
 msgstr "详情"
+
+msgid "e.g. United States"
+msgstr "例如美国"
 
 msgid "e.g. frontend.binaryws.com"
 msgstr "例如 frontend.binaryws.com"
@@ -14033,6 +14652,9 @@ msgstr "数字"
 
 msgid "or"
 msgstr "或"
+
+msgid "or upload photo – no scans or photocopies"
+msgstr "或上传照片 - 不接受扫描件或影印件"
 
 msgid "paysafecard offers a voucher-based online payment method that does not require a bank account, credit card, or other personal information. For more information, please visit %1."
 msgstr "paysafecard 提供基于凭证，不需要银行账户、信用卡或其他个人信息的在线支付方法 。欲知详情, 请访问 %1。"

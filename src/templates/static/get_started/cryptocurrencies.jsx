@@ -28,7 +28,7 @@ const Cryptocurrencies = () => (
                             { id: 'what-crypto-trading',      href: '#what-crypto-trading',      text: it.L('What is cryptocurrency trading') },
                             { id: 'how-trade-crypto',         href: '#how-trade-crypto',         text: it.L('How to trade cryptocurrencies') },
                             { id: 'margin-policy',            href: '#margin-policy',            text: it.L('Cryptocurrency margin policy') },
-                            { id: 'contract-specification',   href: '#contract-specification',   text: it.L('Cryptocurrency contract specifications and commission scheme') },
+                            { id: 'contract-specification',   href: '#contract-specification',   text: it.L('Cryptocurrency contract specifications') },
                         ]}
                     />
                 </div>
@@ -77,7 +77,7 @@ const Cryptocurrencies = () => (
                         <li>{it.L('We will continue to close open positions until your margin level becomes higher than the stop out level.')}</li>
                     </ol>
                 </Section>
-                <Section id='contract-specification' header={it.L('Cryptocurrency contract specifications and commission scheme')}>
+                <Section id='contract-specification' header={it.L('Cryptocurrency contract specifications')}>
                     <HeaderSecondary header={it.L('Contract specifications')} />
                     <Table
                         scroll
@@ -107,14 +107,13 @@ const Cryptocurrencies = () => (
                     <p>{it.L('Each time you open a position on a cryptocurrency pair, you can start with a minimum volume as indicated in the table above.')}</p>
                     <p>{it.L('To learn more, read our [_1]Margin Policy[_2] that further explains our margin requirements.', '<a href="#margin-policy">', '</a>')}</p>
 
-                    <HeaderSecondary header={it.L('Commission and swap scheme')} />
+                    <HeaderSecondary header={it.L('Swap scheme')} />
                     <Table
                         scroll
                         data={{
                             thead: [[
                                 { text: it.L('Symbol'),                    className: 'gr-padding-10' },
                                 { text: it.L('Description'),               className: 'gr-padding-10' },
-                                { text: it.L('Commission per side trade'), className: 'gr-padding-10 w-80' },
                                 { text: it.L('Swaps Long (per annum)'),    className: 'gr-padding-10 w-80' },
                                 { text: it.L('Swaps short (per annum)'),   className: 'gr-padding-10 w-80' },
                             ]],
@@ -132,8 +131,6 @@ const Cryptocurrencies = () => (
                             ],
                         }}
                     />
-                    <HeaderSecondary header={it.L('How to read the commission and swap scheme table')} />
-                    <p>{it.L('Each time you send us an order, you are charged a commission, which is equal to the asset price multiplied by the percentage seen in the above table.')}</p>
                 </Section>
                 <NavButtons parent='mt5' section='cryptocurrencies' />
             </div>

@@ -11,6 +11,11 @@ module.exports = [
     ['cashier/session_expired',                 'app/cashier/session_expired',                 null,         'Cashier session expired'],
     ['cashier/top_up_virtualws',                'app/user/top_up_virtual/top_up_virtual',      'default',    'Top Up Virtual Account'],
 
+    ['dashboard/overview',                      'app/dashboard/index',                         'dashboard',  'Dashboard'],
+    ['dashboard/explore',                       'app/dashboard/index',                         'dashboard',  'Dashboard'],
+    ['dashboard/about-us',                      'app/dashboard/index',                         'dashboard',  'Dashboard'],
+    ['dashboard/resources',                     'app/dashboard/index',                         'dashboard',  'Dashboard'],
+
     ['paymentagent/transferws',                 'app/cashier/paymentagent_transfer',           'default',    'Payment Agent Transfer'],
     ['paymentagent/withdrawws',                 'app/cashier/paymentagent_withdraw',           'default',    'Payment Agent Withdrawal'],
 
@@ -78,7 +83,7 @@ module.exports = [
     ['careers',                                 'static/about/careers',                        'full_width', 'Careers'],
     ['careers/privacy-policy',                  'static/about/job_applicant_policy',           'full_width', 'Job Applicant Privacy Policy'],
     ['contact',                                 'static/about/contact',                        'full_width', 'Contact Us'],
-    ['contact-2',                               'static/about/contact_2',                      'full_width', 'Contact Us'],
+    // ['contact-2',                               'static/about/contact_2',                      'full_width', 'Contact Us'],
     ['cyberjaya',                               'static/about/cyberjaya',                      'full_width', 'Careers - Cyberjaya'],
     ['dubai',                                   'static/about/dubai',                          'full_width', 'Careers - Dubai'],
     ['labuan',                                  'static/about/labuan',                         'full_width', 'Careers - Labuan'],
