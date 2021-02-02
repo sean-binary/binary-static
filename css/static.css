@@ -335,11 +335,20 @@
     max-width: 100%;
     width: 72px; }
 
+#page_msg {
+  font-size: 1rem; }
+
+.act_new_account.button-disabled {
+  cursor: not-allowed; }
+
 #new_account_icon {
   background-image: url("../images/pages/metatrader/icons/new_account.svg");
   background-repeat: no-repeat;
   background-position: 18px 6px;
-  padding-left: 48px; }
+  padding-left: 48px;
+  pointer-events: none; }
+  #new_account_icon.disabled {
+    background-image: url("../images/pages/metatrader/icons/new_account_disabled.svg"); }
 
 #mt_download a[data-type=alt-link] {
   cursor: pointer; }
@@ -1537,6 +1546,7 @@ body #not_authenticated_financial ul.checked > li {
 
 .lightbox #set_currency {
   padding: 25px;
+  padding-bottom: 4px;
   width: 40em; }
   .lightbox #set_currency #set_currency_text {
     margin-top: 0; }
@@ -1546,7 +1556,8 @@ body #not_authenticated_financial ul.checked > li {
     margin-top: 0;
     margin-bottom: 0; }
   .lightbox #set_currency #submit_section {
-    margin-top: 20px; }
+    margin-top: 20px;
+    margin-bottom: 16px; }
 
 .platforms-content h2 {
   line-height: 36px; }
@@ -1644,7 +1655,7 @@ body #not_authenticated_financial ul.checked > li {
   outline: 0;
   border: none; }
 
-.authentication #onfido button:hover, .authentication #onfido button:focus {
+.authentication #onfido button:not(.onfido-sdk-ui-Theme-link):not(.onfido-sdk-ui-Button-button-primary):hover, .authentication #onfido button:not(.onfido-sdk-ui-Theme-link):not(.onfido-sdk-ui-Button-button-primary):focus {
   background-color: inherit; }
 
 .authentication .fields > .gr-row > div > .button {
