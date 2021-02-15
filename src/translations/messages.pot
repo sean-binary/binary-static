@@ -13,7 +13,16 @@ msgstr ""
 msgid "10"
 msgstr ""
 
+msgid "40"
+msgstr ""
+
+msgid "50"
+msgstr ""
+
 msgid "404"
+msgstr ""
+
+msgid "500"
 msgstr ""
 
 msgid " (account created)"
@@ -508,13 +517,7 @@ msgstr ""
 msgid "0-5 transactions in the past 12 months"
 msgstr ""
 
-msgid "0.2%"
-msgstr ""
-
 msgid "0.20"
-msgstr ""
-
-msgid "0.3%"
 msgstr ""
 
 msgid "0.4%"
@@ -1861,7 +1864,19 @@ msgstr ""
 msgid "B. Scope"
 msgstr ""
 
+msgid "BCH/USD"
+msgstr ""
+
+msgid "BNB vs US dollar"
+msgstr ""
+
+msgid "BNB/USD"
+msgstr ""
+
 msgid "BTC"
+msgstr ""
+
+msgid "BTC/USD"
 msgstr ""
 
 msgid "Bachelor's degree in computer science, or an equivalent combination of technical education, training, and work experience"
@@ -3268,16 +3283,10 @@ msgstr ""
 msgid "Cryptocurrencies"
 msgstr ""
 
-msgid "Cryptocurrencies commission per round trade. For example, a round trade of 1 lot of BTC/USD with spot price of 10,000 USD will pay 30 USD on financial accounts and 20 USD on financial STP accounts."
-msgstr ""
-
 msgid "Cryptocurrencies such as Bitcoin and Ethereum are decentralised digital assets that enable instant payments to anywhere in the world."
 msgstr ""
 
 msgid "Cryptocurrencies such as Bitcoin and Ethereum are decentralised digital currencies on the blockchain."
-msgstr ""
-
-msgid "Cryptocurrencies**"
 msgstr ""
 
 msgid "Cryptocurrency"
@@ -3398,6 +3407,9 @@ msgid "DIEL reserves the right to accept or refuse any requests for change in cl
 msgstr ""
 
 msgid "DIEL shall not be obliged to provide professional clients with the following:"
+msgstr ""
+
+msgid "DSH/USD"
 msgstr ""
 
 msgid "Daily Reset Indices – Daily Reset Indices replicate markets with a bullish and bearish trend with a constant volatility. The Bull Market and Bear Market indices start at 00:00 GMT each day, replicating bullish and bearish markets respectively."
@@ -4016,6 +4028,12 @@ msgid "EGR Operator Awards"
 msgstr ""
 
 msgid "EOS vs US dollar"
+msgstr ""
+
+msgid "EOS/USD"
+msgstr ""
+
+msgid "ETH/USD"
 msgstr ""
 
 msgid "EU Passport Rights"
@@ -6562,6 +6580,9 @@ msgstr ""
 msgid "L. Manifest Error"
 msgstr ""
 
+msgid "LTC/USD"
+msgstr ""
+
 msgid "Labuan"
 msgstr ""
 
@@ -8077,7 +8098,7 @@ msgstr ""
 msgid "Our Synthetic account allows you to trade CFDs on Synthetic Indices - our proprietary synthetic assets that simulate market forces."
 msgstr ""
 
-msgid "Our active client base is expected to reach over 175,000 total clients this year."
+msgid "Our active client base is expected to reach over 790,000 total clients this year."
 msgstr ""
 
 msgid "Our business is founded on collaboration and we aim to build long-term, mutually beneficial relationships with our partners. However, we will never compromise our commitment to business integrity. In cases where our partners are unwilling or unable to abide by our principles, we reserve the right to withdraw from the business relationship."
@@ -10393,7 +10414,7 @@ msgstr ""
 msgid "Swaps Long (per annum)"
 msgstr ""
 
-msgid "Swaps short (per annum)"
+msgid "Swaps Short (per annum)"
 msgstr ""
 
 msgid "Swiss franc vs Japanese yen"
@@ -13507,9 +13528,6 @@ msgstr ""
 msgid "We're almost there"
 msgstr ""
 
-msgid "We're expected to generate over 2 USD billion in turnover this year, bringing our total turnover since inception to over 9.2 USD billion."
-msgstr ""
-
 msgid "We're granted patents for 'Computer trading system and method for speculating on a financial market' and 'Computer trading system for offering custom financial market speculations'. The patents show our ability to innovate and stay ahead of the pack."
 msgstr ""
 
@@ -13522,13 +13540,13 @@ msgstr ""
 msgid "We're now ready to verify your identity"
 msgstr ""
 
-msgid "We're projected to register over 377 million transactions this year, bringing the total number of contracts that were bought and sold on our platform since inception to over 1.42 billion."
+msgid "We're projected to register over 1.1 billion transactions this year, bringing the total number of contracts that were bought and sold on our platform since inception to over 2.8 billion."
 msgstr ""
 
 msgid "We're really proud of this award. We're strongly committed to offering an ethical and customer-focused trading experience, and the award shows that BetOnMarkets is a trusted brand that listens and caters to customers, whether they are experienced traders or novices. We offer customer services in English, Indonesian, Russian, Chinese and Spanish."
 msgstr ""
 
-msgid "We've grown in size over the years - both in terms of manpower and offices. We currently have over %1 employees across four offices in Malaysia, Malta, Paraguay and Dubai. Further growth in headcount is expected this year to cater to the increased demand in our products and services."
+msgid "We've grown in size over the years - both in terms of manpower and offices. We currently have over %1 employees across 10 offices in Malta, Dubai, Malaysia, Paraguay, Cyprus, Rwanda, and Belarus. Further growth in headcount is expected this year to cater to the increased demand in our products and services."
 msgstr ""
 
 msgid "We've sent a secure link to %{number}"
@@ -14017,6 +14035,15 @@ msgstr ""
 msgid "Written limits and self-exclusion"
 msgstr ""
 
+msgid "XMR vs US dollar"
+msgstr ""
+
+msgid "XMR/USD"
+msgstr ""
+
+msgid "XRP/USD"
+msgstr ""
+
 msgid "Yes"
 msgstr ""
 
@@ -14491,6 +14518,9 @@ msgstr ""
 msgid "Your transaction reference number is %1"
 msgstr ""
 
+msgid "Your virtual balance has been reset."
+msgstr ""
+
 msgid "Your web browser (%1) is out of date and may affect your trading experience. Proceed at your own risk. %2Update browser%3"
 msgstr ""
 
@@ -14507,6 +14537,12 @@ msgid "You’ll be logged out automatically."
 msgstr ""
 
 msgid "You’ve successfully closed your account. We’ll send a confirmation email to %1."
+msgstr ""
+
+msgid "ZEC vs US dollar"
+msgstr ""
+
+msgid "ZEC/USD"
 msgstr ""
 
 msgid "ZingPay is a payment facility that allows online bank transfers for clients in South Africa."

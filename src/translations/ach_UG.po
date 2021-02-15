@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-01-29 06:53\n"
+"PO-Revision-Date: 2021-02-11 09:54\n"
 "Last-Translator: \n"
 "Language-Team: Acholi\n"
 "MIME-Version: 1.0\n"
@@ -28,8 +28,17 @@ msgstr "crwdns66632:0crwdne66632:0"
 msgid "10"
 msgstr "crwdns66634:0crwdne66634:0"
 
+msgid "40"
+msgstr "crwdns159324:0crwdne159324:0"
+
+msgid "50"
+msgstr "crwdns159326:0crwdne159326:0"
+
 msgid "404"
 msgstr "crwdns41400:0crwdne41400:0"
+
+msgid "500"
+msgstr "crwdns159328:0crwdne159328:0"
 
 msgid " (account created)"
 msgstr "crwdns158888:0crwdne158888:0"
@@ -523,14 +532,8 @@ msgstr "crwdns37558:0crwdne37558:0"
 msgid "0-5 transactions in the past 12 months"
 msgstr "crwdns37559:0crwdne37559:0"
 
-msgid "0.2%"
-msgstr "crwdns157320:0crwdne157320:0"
-
 msgid "0.20"
 msgstr "crwdns66646:0crwdne66646:0"
-
-msgid "0.3%"
-msgstr "crwdns66650:0crwdne66650:0"
 
 msgid "0.4%"
 msgstr "crwdns87360:0crwdne87360:0"
@@ -950,7 +953,7 @@ msgid "Access to the client's personal data is strictly prohibited, with the exc
 msgstr "crwdns54056:0%1crwdne54056:0"
 
 msgid "Access your account with full trading permission."
-msgstr "crwdns50476:0crwdne50476:0"
+msgstr "crwdns159450:0crwdne159450:0"
 
 msgid "Accomplished writing and editing skills with at least five years editorial experience in digital advertising or online media"
 msgstr "crwdns51702:0crwdne51702:0"
@@ -1876,8 +1879,20 @@ msgstr "crwdns54192:0crwdne54192:0"
 msgid "B. Scope"
 msgstr "crwdns37850:0crwdne37850:0"
 
+msgid "BCH/USD"
+msgstr "crwdns159330:0crwdne159330:0"
+
+msgid "BNB vs US dollar"
+msgstr "crwdns159332:0crwdne159332:0"
+
+msgid "BNB/USD"
+msgstr "crwdns159334:0crwdne159334:0"
+
 msgid "BTC"
 msgstr "crwdns42026:0crwdne42026:0"
+
+msgid "BTC/USD"
+msgstr "crwdns159336:0crwdne159336:0"
 
 msgid "Bachelor's degree in computer science, or an equivalent combination of technical education, training, and work experience"
 msgstr "crwdns53320:0crwdne53320:0"
@@ -2432,7 +2447,7 @@ msgid "Change API Endpoint"
 msgstr "crwdns37991:0crwdne37991:0"
 
 msgid "Change MT5 password"
-msgstr "crwdns43458:0crwdne43458:0"
+msgstr "crwdns159452:0crwdne159452:0"
 
 msgid "Change Password"
 msgstr "crwdns37992:0crwdne37992:0"
@@ -3283,17 +3298,11 @@ msgstr "crwdns42089:0crwdne42089:0"
 msgid "Cryptocurrencies"
 msgstr "crwdns38177:0crwdne38177:0"
 
-msgid "Cryptocurrencies commission per round trade. For example, a round trade of 1 lot of BTC/USD with spot price of 10,000 USD will pay 30 USD on financial accounts and 20 USD on financial STP accounts."
-msgstr "crwdns157324:0crwdne157324:0"
-
 msgid "Cryptocurrencies such as Bitcoin and Ethereum are decentralised digital assets that enable instant payments to anywhere in the world."
 msgstr "crwdns42091:0crwdne42091:0"
 
 msgid "Cryptocurrencies such as Bitcoin and Ethereum are decentralised digital currencies on the blockchain."
 msgstr "crwdns42092:0crwdne42092:0"
-
-msgid "Cryptocurrencies**"
-msgstr "crwdns66542:0crwdne66542:0"
 
 msgid "Cryptocurrency"
 msgstr "crwdns38178:0crwdne38178:0"
@@ -3329,7 +3338,7 @@ msgid "Current"
 msgstr "crwdns38183:0crwdne38183:0"
 
 msgid "Current MT5 password"
-msgstr "crwdns43459:0crwdne43459:0"
+msgstr "crwdns159454:0crwdne159454:0"
 
 msgid "Current Time"
 msgstr "crwdns38184:0crwdne38184:0"
@@ -3414,6 +3423,9 @@ msgstr "crwdns121958:0crwdne121958:0"
 
 msgid "DIEL shall not be obliged to provide professional clients with the following:"
 msgstr "crwdns121960:0crwdne121960:0"
+
+msgid "DSH/USD"
+msgstr "crwdns159338:0crwdne159338:0"
 
 msgid "Daily Reset Indices – Daily Reset Indices replicate markets with a bullish and bearish trend with a constant volatility. The Bull Market and Bear Market indices start at 00:00 GMT each day, replicating bullish and bearish markets respectively."
 msgstr "crwdns89880:0crwdne89880:0"
@@ -4032,6 +4044,12 @@ msgstr "crwdns51424:0crwdne51424:0"
 
 msgid "EOS vs US dollar"
 msgstr "crwdns89888:0crwdne89888:0"
+
+msgid "EOS/USD"
+msgstr "crwdns159340:0crwdne159340:0"
+
+msgid "ETH/USD"
+msgstr "crwdns159342:0crwdne159342:0"
 
 msgid "EU Passport Rights"
 msgstr "crwdns38300:0crwdne38300:0"
@@ -6329,7 +6347,7 @@ msgid "Investments &amp; Dividends"
 msgstr "crwdns38826:0crwdne38826:0"
 
 msgid "Investor"
-msgstr "crwdns44577:0crwdne44577:0"
+msgstr "crwdns159456:0crwdne159456:0"
 
 msgid "Investor Compensation Scheme"
 msgstr "crwdns38827:0crwdne38827:0"
@@ -6576,6 +6594,9 @@ msgstr "crwdns39028:0crwdne39028:0"
 
 msgid "L. Manifest Error"
 msgstr "crwdns54716:0crwdne54716:0"
+
+msgid "LTC/USD"
+msgstr "crwdns159344:0crwdne159344:0"
 
 msgid "Labuan"
 msgstr "crwdns46316:0crwdne46316:0"
@@ -6959,10 +6980,10 @@ msgid "Maestro is an international debit card service by Mastercard. For more in
 msgstr "crwdns53208:0%1crwdne53208:0"
 
 msgid "Main"
-msgstr "crwdns44578:0crwdne44578:0"
+msgstr "crwdns159458:0crwdne159458:0"
 
 msgid "Main password"
-msgstr "crwdns39115:0crwdne39115:0"
+msgstr "crwdns159460:0crwdne159460:0"
 
 msgid "Maintain accurate system pricing parameters"
 msgstr "crwdns39117:0crwdne39117:0"
@@ -7595,7 +7616,7 @@ msgid "Never Used"
 msgstr "crwdns39247:0crwdne39247:0"
 
 msgid "New MT5 password"
-msgstr "crwdns43463:0crwdne43463:0"
+msgstr "crwdns159462:0crwdne159462:0"
 
 msgid "New Password"
 msgstr "crwdns39248:0crwdne39248:0"
@@ -8092,8 +8113,8 @@ msgstr "crwdns118010:0crwdne118010:0"
 msgid "Our Synthetic account allows you to trade CFDs on Synthetic Indices - our proprietary synthetic assets that simulate market forces."
 msgstr "crwdns118012:0crwdne118012:0"
 
-msgid "Our active client base is expected to reach over 175,000 total clients this year."
-msgstr "crwdns86256:0crwdne86256:0"
+msgid "Our active client base is expected to reach over 790,000 total clients this year."
+msgstr "crwdns159464:0crwdne159464:0"
 
 msgid "Our business is founded on collaboration and we aim to build long-term, mutually beneficial relationships with our partners. However, we will never compromise our commitment to business integrity. In cases where our partners are unwilling or unable to abide by our principles, we reserve the right to withdraw from the business relationship."
 msgstr "crwdns84765:0crwdne84765:0"
@@ -8261,7 +8282,7 @@ msgid "Password should have lower and uppercase English letters with numbers."
 msgstr "crwdns125036:0crwdne125036:0"
 
 msgid "Password type"
-msgstr "crwdns44580:0crwdne44580:0"
+msgstr "crwdns159466:0crwdne159466:0"
 
 msgid "Patented technology"
 msgstr "crwdns39423:0crwdne39423:0"
@@ -9425,7 +9446,7 @@ msgid "Reset Call/Reset Put"
 msgstr "crwdns45984:0crwdne45984:0"
 
 msgid "Reset MT5 password"
-msgstr "crwdns44582:0crwdne44582:0"
+msgstr "crwdns159468:0crwdne159468:0"
 
 msgid "Reset Password"
 msgstr "crwdns39661:0crwdne39661:0"
@@ -9890,7 +9911,7 @@ msgid "Severability"
 msgstr "crwdns39769:0crwdne39769:0"
 
 msgid "Share access to your account without any permission to trade."
-msgstr "crwdns50478:0crwdne50478:0"
+msgstr "crwdns159470:0crwdne159470:0"
 
 msgid "Sharp prices"
 msgstr "crwdns39770:0crwdne39770:0"
@@ -10408,8 +10429,8 @@ msgstr "crwdns157412:0crwdne157412:0"
 msgid "Swaps Long (per annum)"
 msgstr "crwdns52604:0crwdne52604:0"
 
-msgid "Swaps short (per annum)"
-msgstr "crwdns52606:0crwdne52606:0"
+msgid "Swaps Short (per annum)"
+msgstr "crwdns159346:0crwdne159346:0"
 
 msgid "Swiss franc vs Japanese yen"
 msgstr "crwdns90082:0crwdne90082:0"
@@ -12479,7 +12500,7 @@ msgid "To reset your password, enter the email address you used to create your a
 msgstr "crwdns40208:0crwdne40208:0"
 
 msgid "To reset your trading or investor password, please click the button below:"
-msgstr "crwdns44585:0crwdne44585:0"
+msgstr "crwdns159472:0crwdne159472:0"
 
 msgid "To smoothly verify you, we need a better photo"
 msgstr "crwdns158574:0crwdne158574:0"
@@ -13244,10 +13265,10 @@ msgid "Verify identity"
 msgstr "crwdns121682:0crwdne121682:0"
 
 msgid "Verify main password"
-msgstr "crwdns40358:0crwdne40358:0"
+msgstr "crwdns159474:0crwdne159474:0"
 
 msgid "Verify new MT5 password"
-msgstr "crwdns43465:0crwdne43465:0"
+msgstr "crwdns159476:0crwdne159476:0"
 
 msgid "Verify new password"
 msgstr "crwdns40359:0crwdne40359:0"
@@ -13522,9 +13543,6 @@ msgstr "crwdns158614:0crwdne158614:0"
 msgid "We're almost there"
 msgstr "crwdns45961:0crwdne45961:0"
 
-msgid "We're expected to generate over 2 USD billion in turnover this year, bringing our total turnover since inception to over 9.2 USD billion."
-msgstr "crwdns90174:0crwdne90174:0"
-
 msgid "We're granted patents for 'Computer trading system and method for speculating on a financial market' and 'Computer trading system for offering custom financial market speculations'. The patents show our ability to innovate and stay ahead of the pack."
 msgstr "crwdns40465:0crwdne40465:0"
 
@@ -13537,14 +13555,14 @@ msgstr "crwdns53520:0crwdne53520:0"
 msgid "We're now ready to verify your identity"
 msgstr "crwdns158616:0crwdne158616:0"
 
-msgid "We're projected to register over 377 million transactions this year, bringing the total number of contracts that were bought and sold on our platform since inception to over 1.42 billion."
-msgstr "crwdns86260:0crwdne86260:0"
+msgid "We're projected to register over 1.1 billion transactions this year, bringing the total number of contracts that were bought and sold on our platform since inception to over 2.8 billion."
+msgstr "crwdns159478:0crwdne159478:0"
 
 msgid "We're really proud of this award. We're strongly committed to offering an ethical and customer-focused trading experience, and the award shows that BetOnMarkets is a trusted brand that listens and caters to customers, whether they are experienced traders or novices. We offer customer services in English, Indonesian, Russian, Chinese and Spanish."
 msgstr "crwdns40466:0crwdne40466:0"
 
-msgid "We've grown in size over the years - both in terms of manpower and offices. We currently have over %1 employees across four offices in Malaysia, Malta, Paraguay and Dubai. Further growth in headcount is expected this year to cater to the increased demand in our products and services."
-msgstr "crwdns86262:0%1crwdne86262:0"
+msgid "We've grown in size over the years - both in terms of manpower and offices. We currently have over %1 employees across 10 offices in Malta, Dubai, Malaysia, Paraguay, Cyprus, Rwanda, and Belarus. Further growth in headcount is expected this year to cater to the increased demand in our products and services."
+msgstr "crwdns159482:0%1crwdne159482:0"
 
 msgid "We've sent a secure link to %{number}"
 msgstr "crwdns158618:0%{number}crwdne158618:0"
@@ -14032,6 +14050,15 @@ msgstr "crwdns52474:0crwdne52474:0"
 msgid "Written limits and self-exclusion"
 msgstr "crwdns40580:0crwdne40580:0"
 
+msgid "XMR vs US dollar"
+msgstr "crwdns159348:0crwdne159348:0"
+
+msgid "XMR/USD"
+msgstr "crwdns159350:0crwdne159350:0"
+
+msgid "XRP/USD"
+msgstr "crwdns159352:0crwdne159352:0"
+
 msgid "Yes"
 msgstr "crwdns52826:0crwdne52826:0"
 
@@ -14506,6 +14533,9 @@ msgstr "crwdns40760:0crwdne40760:0"
 msgid "Your transaction reference number is %1"
 msgstr "crwdns40761:0%1crwdne40761:0"
 
+msgid "Your virtual balance has been reset."
+msgstr "crwdns159354:0crwdne159354:0"
+
 msgid "Your web browser (%1) is out of date and may affect your trading experience. Proceed at your own risk. %2Update browser%3"
 msgstr "crwdns40766:0%1crwdnd40766:0%2crwdnd40766:0%3crwdne40766:0"
 
@@ -14523,6 +14553,12 @@ msgstr "crwdns123536:0crwdne123536:0"
 
 msgid "You’ve successfully closed your account. We’ll send a confirmation email to %1."
 msgstr "crwdns159086:0%1crwdne159086:0"
+
+msgid "ZEC vs US dollar"
+msgstr "crwdns159356:0crwdne159356:0"
+
+msgid "ZEC/USD"
+msgstr "crwdns159358:0crwdne159358:0"
 
 msgid "ZingPay is a payment facility that allows online bank transfers for clients in South Africa."
 msgstr "crwdns89794:0crwdne89794:0"
