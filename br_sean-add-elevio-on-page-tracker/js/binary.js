@@ -1050,6 +1050,10 @@ var Elevio = function () {
     };
 
     var addEventListenerGTM = function addEventListenerGTM() {
+        window._elev.on('widget:opened', function () {
+            // eslint-disable-line no-underscore-dangle
+            GTM.pushDataLayer({ event: 'elevio_widget_opened' });
+        });
         window._elev.on('page:view', function () {
             // eslint-disable-line no-underscore-dangle
             GTM.pushDataLayer({ event: 'elevio_page_views' });
